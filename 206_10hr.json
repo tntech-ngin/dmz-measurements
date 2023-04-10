@@ -1,0 +1,1834 @@
+[
+   {
+      "ts" : 1679541481,
+      "val" : [
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "ip" : "149.149.10.252",
+            "rtt" : 0.3,
+            "ttl" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 2,
+            "rtt" : 3.6,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "149.149.2.1",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            }
+         },
+         {
+            "rtt" : 1.9,
+            "ttl" : 3,
+            "query" : 1,
+            "ip" : "63.135.176.205",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1
+         },
+         {
+            "rtt" : 9.9,
+            "ttl" : 4,
+            "query" : 1,
+            "ip" : "128.241.219.93",
+            "as" : {
+               "number" : 2914,
+               "owner" : "NTT-LTD-2914, US"
+            },
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net",
+            "success" : 1
+         },
+         {
+            "rtt" : 10.6,
+            "ttl" : 5,
+            "query" : 1,
+            "ip" : "199.229.229.201",
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "hostname" : "ae10.cr2-atl2.ip4.gtt.net",
+            "success" : 1
+         },
+         {
+            "rtt" : 10.4,
+            "ttl" : 6,
+            "query" : 1,
+            "hostname" : "ae21.cr4-atl2.ip4.gtt.net",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "ip" : "141.136.111.138",
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "72.29.215.51",
+            "query" : 1,
+            "rtt" : 10.7,
+            "ttl" : 7
+         },
+         {
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "ip" : "148.66.237.104",
+            "success" : 1,
+            "ttl" : 8,
+            "rtt" : 64.2,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "rtt" : 64.3,
+            "ttl" : 9,
+            "success" : 1,
+            "hostname" : "be136.bbrt01.dal01.flexential.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "148.66.237.92"
+         },
+         {
+            "ip" : "66.51.7.42",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be10.bbrt02.dal01.flexential.net",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 10,
+            "rtt" : 64.1
+         },
+         {
+            "ip" : "66.51.7.70",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be106.bbrt01.las03.flexential.net",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 11,
+            "rtt" : 64.6
+         },
+         {
+            "query" : 1,
+            "rtt" : 64.8,
+            "ttl" : 12,
+            "success" : 1,
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.90"
+         },
+         {
+            "ip" : "66.51.5.41",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "success" : 1,
+            "rtt" : 64.3,
+            "ttl" : 13,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "hostname" : "be150.bbrt01.slc04.flexential.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.9.125",
+            "rtt" : 64.9,
+            "ttl" : 14,
+            "query" : 1
+         },
+         {
+            "rtt" : 64.5,
+            "ttl" : 15,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.4.242",
+            "hostname" : "be31.crrt01.slc04.flexential.net"
+         },
+         {
+            "ttl" : 16,
+            "rtt" : 64.1,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "ip" : "66.51.1.94"
+         },
+         {
+            "ip" : "206.71.76.62",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "speedster.slc04.viawest.net",
+            "success" : 1,
+            "rtt" : 63.5,
+            "ttl" : 17,
+            "query" : 1
+         }
+      ]
+   },
+   {
+      "ts" : 1679545081,
+      "val" : [
+         {
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ip" : "149.149.10.252",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 1,
+            "rtt" : 0.6
+         },
+         {
+            "ip" : "149.149.2.1",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1,
+            "query" : 1,
+            "rtt" : 2.2,
+            "ttl" : 2
+         },
+         {
+            "ip" : "63.135.176.205",
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "success" : 1,
+            "ttl" : 3,
+            "rtt" : 2.2,
+            "query" : 1
+         },
+         {
+            "rtt" : 10.6,
+            "ttl" : 4,
+            "query" : 1,
+            "ip" : "128.241.219.93",
+            "as" : {
+               "owner" : "NTT-LTD-2914, US",
+               "number" : 2914
+            },
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net",
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "rtt" : 11.2,
+            "ttl" : 5,
+            "success" : 1,
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "199.229.229.201",
+            "hostname" : "ae10.cr2-atl2.ip4.gtt.net"
+         },
+         {
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "hostname" : "ae21.cr4-atl2.ip4.gtt.net",
+            "ip" : "141.136.111.138",
+            "success" : 1,
+            "ttl" : 6,
+            "rtt" : 25.9,
+            "query" : 1
+         },
+         {
+            "ttl" : 7,
+            "rtt" : 11.1,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "ip" : "72.29.215.51"
+         },
+         {
+            "ttl" : 8,
+            "rtt" : 64.4,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "ip" : "148.66.237.104"
+         },
+         {
+            "rtt" : 64.8,
+            "ttl" : 9,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "148.66.237.92",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be136.bbrt01.dal01.flexential.net"
+         },
+         {
+            "success" : 1,
+            "ip" : "66.51.7.42",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be10.bbrt02.dal01.flexential.net",
+            "rtt" : 64.7,
+            "ttl" : 10,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "rtt" : 65.1,
+            "ttl" : 11,
+            "success" : 1,
+            "ip" : "66.51.7.70",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be106.bbrt01.las03.flexential.net"
+         },
+         {
+            "rtt" : 64.3,
+            "ttl" : 12,
+            "query" : 1,
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.7.90",
+            "success" : 1
+         },
+         {
+            "rtt" : 64,
+            "ttl" : 13,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "ip" : "66.51.5.41"
+         },
+         {
+            "rtt" : 63.8,
+            "ttl" : 14,
+            "query" : 1,
+            "hostname" : "be150.bbrt01.slc04.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.9.125",
+            "success" : 1
+         },
+         {
+            "ttl" : 15,
+            "rtt" : 64.3,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.4.242",
+            "hostname" : "be31.crrt01.slc04.flexential.net"
+         },
+         {
+            "ip" : "66.51.1.94",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "success" : 1,
+            "ttl" : 16,
+            "rtt" : 64.6,
+            "query" : 1
+         },
+         {
+            "ip" : "206.71.76.62",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "speedster.slc04.viawest.net",
+            "success" : 1,
+            "rtt" : 63.5,
+            "ttl" : 17,
+            "query" : 1
+         }
+      ]
+   },
+   {
+      "val" : [
+         {
+            "success" : 1,
+            "ip" : "149.149.10.252",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "query" : 1,
+            "rtt" : 0.6,
+            "ttl" : 1
+         },
+         {
+            "ttl" : 2,
+            "rtt" : 2.6,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "149.149.2.1",
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            }
+         },
+         {
+            "rtt" : 2.4,
+            "ttl" : 3,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ip" : "63.135.176.205"
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "NTT-LTD-2914, US",
+               "number" : 2914
+            },
+            "ip" : "128.241.219.93",
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net",
+            "ttl" : 4,
+            "rtt" : 10.8,
+            "query" : 1
+         },
+         {
+            "rtt" : 11.4,
+            "ttl" : 5,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "hostname" : "ae10.cr2-atl2.ip4.gtt.net",
+            "ip" : "199.229.229.201"
+         },
+         {
+            "hostname" : "ae21.cr4-atl2.ip4.gtt.net",
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "141.136.111.138",
+            "success" : 1,
+            "ttl" : 6,
+            "rtt" : 18.9,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "rtt" : 10.6,
+            "ttl" : 7,
+            "ip" : "72.29.215.51",
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "success" : 1
+         },
+         {
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "148.66.237.104",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 8,
+            "rtt" : 64.4
+         },
+         {
+            "success" : 1,
+            "hostname" : "be136.bbrt01.dal01.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "148.66.237.92",
+            "query" : 1,
+            "ttl" : 9,
+            "rtt" : 65.1
+         },
+         {
+            "ip" : "66.51.7.42",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be10.bbrt02.dal01.flexential.net",
+            "success" : 1,
+            "query" : 1,
+            "rtt" : 64.8,
+            "ttl" : 10
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.70",
+            "hostname" : "be106.bbrt01.las03.flexential.net",
+            "rtt" : 64.8,
+            "ttl" : 11,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 12,
+            "rtt" : 64.6,
+            "success" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "ip" : "66.51.7.90"
+         },
+         {
+            "success" : 1,
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.5.41",
+            "query" : 1,
+            "rtt" : 64.1,
+            "ttl" : 13
+         },
+         {
+            "query" : 1,
+            "ttl" : 14,
+            "rtt" : 64.3,
+            "success" : 1,
+            "hostname" : "be150.bbrt01.slc04.flexential.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.9.125"
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.4.242",
+            "hostname" : "be31.crrt01.slc04.flexential.net",
+            "ttl" : 15,
+            "rtt" : 64.6,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.1.94",
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "query" : 1,
+            "ttl" : 16,
+            "rtt" : 63.9
+         },
+         {
+            "query" : 1,
+            "rtt" : 63.8,
+            "ttl" : 17,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "206.71.76.62",
+            "hostname" : "speedster.slc04.viawest.net",
+            "success" : 1
+         }
+      ],
+      "ts" : 1679548681
+   },
+   {
+      "ts" : 1679552281,
+      "val" : [
+         {
+            "rtt" : 0.6,
+            "ttl" : 1,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "149.149.10.252",
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            }
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "ip" : "149.149.2.1",
+            "query" : 1,
+            "rtt" : 2.6,
+            "ttl" : 2
+         },
+         {
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "ip" : "63.135.176.205",
+            "success" : 1,
+            "rtt" : 2.3,
+            "ttl" : 3,
+            "query" : 1
+         },
+         {
+            "ttl" : 4,
+            "rtt" : 10.8,
+            "query" : 1,
+            "as" : {
+               "number" : 2914,
+               "owner" : "NTT-LTD-2914, US"
+            },
+            "ip" : "128.241.219.93",
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net",
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "hostname" : "ae10.cr2-atl2.ip4.gtt.net",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "ip" : "199.229.229.201",
+            "query" : 1,
+            "ttl" : 5,
+            "rtt" : 11
+         },
+         {
+            "success" : 1,
+            "ip" : "89.149.141.94",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "hostname" : "ae22.cr4-atl2.ip4.gtt.net",
+            "query" : 1,
+            "ttl" : 6,
+            "rtt" : 11.8
+         },
+         {
+            "rtt" : 11,
+            "ttl" : 7,
+            "query" : 1,
+            "ip" : "72.29.215.51",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 8,
+            "rtt" : 65,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "148.66.237.104",
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "rtt" : 65.2,
+            "ttl" : 9,
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "148.66.237.92",
+            "hostname" : "be136.bbrt01.dal01.flexential.net"
+         },
+         {
+            "query" : 1,
+            "ttl" : 10,
+            "rtt" : 64.7,
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.42",
+            "hostname" : "be10.bbrt02.dal01.flexential.net"
+         },
+         {
+            "rtt" : 64.7,
+            "ttl" : 11,
+            "query" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be106.bbrt01.las03.flexential.net",
+            "ip" : "66.51.7.70",
+            "success" : 1
+         },
+         {
+            "ttl" : 12,
+            "rtt" : 64.2,
+            "query" : 1,
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.90",
+            "success" : 1
+         },
+         {
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.5.41",
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "success" : 1,
+            "query" : 1,
+            "rtt" : 64.2,
+            "ttl" : 13
+         },
+         {
+            "rtt" : 64,
+            "ttl" : 14,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "66.51.9.125",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be150.bbrt01.slc04.flexential.net"
+         },
+         {
+            "ttl" : 15,
+            "rtt" : 64.5,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "66.51.4.242",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be31.crrt01.slc04.flexential.net"
+         },
+         {
+            "query" : 1,
+            "ttl" : 16,
+            "rtt" : 63.7,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.1.94",
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "success" : 1
+         },
+         {
+            "rtt" : 63.6,
+            "ttl" : 17,
+            "query" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "speedster.slc04.viawest.net",
+            "ip" : "206.71.76.62",
+            "success" : 1
+         }
+      ]
+   },
+   {
+      "val" : [
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ip" : "149.149.10.252",
+            "ttl" : 1,
+            "rtt" : 0.4,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 2,
+            "rtt" : 2,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "ip" : "149.149.2.1"
+         },
+         {
+            "query" : 1,
+            "rtt" : 1.9,
+            "ttl" : 3,
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ip" : "63.135.176.205"
+         },
+         {
+            "ip" : "128.241.219.93",
+            "as" : {
+               "number" : 2914,
+               "owner" : "NTT-LTD-2914, US"
+            },
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 4,
+            "rtt" : 9.8
+         },
+         {
+            "success" : 1,
+            "hostname" : "ae10.cr2-atl2.ip4.gtt.net",
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "199.229.229.201",
+            "query" : 1,
+            "ttl" : 5,
+            "rtt" : 10.5
+         },
+         {
+            "query" : 1,
+            "ttl" : 6,
+            "rtt" : 10.7,
+            "success" : 1,
+            "hostname" : "ae22.cr4-atl2.ip4.gtt.net",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "ip" : "89.149.141.94"
+         },
+         {
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "72.29.215.51",
+            "success" : 1,
+            "rtt" : 10.2,
+            "ttl" : 7,
+            "query" : 1
+         },
+         {
+            "rtt" : 64.2,
+            "ttl" : 8,
+            "query" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "148.66.237.104",
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "success" : 1
+         },
+         {
+            "rtt" : 64,
+            "ttl" : 9,
+            "query" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be136.bbrt01.dal01.flexential.net",
+            "ip" : "148.66.237.92",
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 10,
+            "rtt" : 63.6,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.7.42",
+            "hostname" : "be10.bbrt02.dal01.flexential.net",
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 11,
+            "rtt" : 64.7,
+            "hostname" : "be106.bbrt01.las03.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.70",
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ip" : "66.51.7.90",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "query" : 1,
+            "ttl" : 12,
+            "rtt" : 64.7
+         },
+         {
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.5.41",
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 13,
+            "rtt" : 63.9
+         },
+         {
+            "hostname" : "be150.bbrt01.slc04.flexential.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.9.125",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 14,
+            "rtt" : 64.4
+         },
+         {
+            "query" : 1,
+            "ttl" : 15,
+            "rtt" : 64.4,
+            "success" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be31.crrt01.slc04.flexential.net",
+            "ip" : "66.51.4.242"
+         },
+         {
+            "query" : 1,
+            "rtt" : 64.5,
+            "ttl" : 16,
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.1.94",
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "speedster.slc04.viawest.net",
+            "ip" : "206.71.76.62",
+            "rtt" : 63.4,
+            "ttl" : 17,
+            "query" : 1
+         }
+      ],
+      "ts" : 1679555881
+   },
+   {
+      "val" : [
+         {
+            "ip" : "149.149.10.252",
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 1,
+            "rtt" : 0.9
+         },
+         {
+            "rtt" : 2,
+            "ttl" : 2,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "149.149.2.1",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            }
+         },
+         {
+            "ttl" : 3,
+            "rtt" : 2.2,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "ip" : "63.135.176.205"
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 2914,
+               "owner" : "NTT-LTD-2914, US"
+            },
+            "ip" : "128.241.219.93",
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net",
+            "query" : 1,
+            "ttl" : 4,
+            "rtt" : 14.6
+         },
+         {
+            "ttl" : 5,
+            "rtt" : 10.2,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "199.229.229.201",
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "hostname" : "ae10.cr2-atl2.ip4.gtt.net"
+         },
+         {
+            "hostname" : "ae21.cr4-atl2.ip4.gtt.net",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "ip" : "141.136.111.138",
+            "success" : 1,
+            "rtt" : 36.3,
+            "ttl" : 6,
+            "query" : 1
+         },
+         {
+            "rtt" : 10.5,
+            "ttl" : 7,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "72.29.215.51"
+         },
+         {
+            "query" : 1,
+            "rtt" : 64.4,
+            "ttl" : 8,
+            "success" : 1,
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "148.66.237.104"
+         },
+         {
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "148.66.237.92",
+            "hostname" : "be136.bbrt01.dal01.flexential.net",
+            "success" : 1,
+            "query" : 1,
+            "rtt" : 64.4,
+            "ttl" : 9
+         },
+         {
+            "success" : 1,
+            "ip" : "66.51.7.42",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be10.bbrt02.dal01.flexential.net",
+            "ttl" : 10,
+            "rtt" : 64.7,
+            "query" : 1
+         },
+         {
+            "hostname" : "be106.bbrt01.las03.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.70",
+            "success" : 1,
+            "ttl" : 11,
+            "rtt" : 64.6,
+            "query" : 1
+         },
+         {
+            "ttl" : 12,
+            "rtt" : 63.8,
+            "query" : 1,
+            "success" : 1,
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.90"
+         },
+         {
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "ip" : "66.51.5.41",
+            "success" : 1,
+            "ttl" : 13,
+            "rtt" : 63.9,
+            "query" : 1
+         },
+         {
+            "rtt" : 63.4,
+            "ttl" : 14,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be150.bbrt01.slc04.flexential.net",
+            "ip" : "66.51.9.125"
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be31.crrt01.slc04.flexential.net",
+            "ip" : "66.51.4.242",
+            "ttl" : 15,
+            "rtt" : 64,
+            "query" : 1
+         },
+         {
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.1.94",
+            "success" : 1,
+            "query" : 1,
+            "rtt" : 64.2,
+            "ttl" : 16
+         },
+         {
+            "success" : 1,
+            "ip" : "206.71.76.62",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "speedster.slc04.viawest.net",
+            "ttl" : 17,
+            "rtt" : 63.3,
+            "query" : 1
+         }
+      ],
+      "ts" : 1679563081
+   },
+   {
+      "val" : [
+         {
+            "ttl" : 1,
+            "rtt" : 0.4,
+            "query" : 1,
+            "ip" : "149.149.10.252",
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ip" : "149.149.2.1",
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "rtt" : 2.1,
+            "ttl" : 2,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "rtt" : 1.8,
+            "ttl" : 3,
+            "ip" : "63.135.176.205",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1
+         },
+         {
+            "rtt" : 9.7,
+            "ttl" : 4,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "128.241.219.93",
+            "as" : {
+               "number" : 2914,
+               "owner" : "NTT-LTD-2914, US"
+            },
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net"
+         },
+         {
+            "query" : 1,
+            "rtt" : 10.6,
+            "ttl" : 5,
+            "success" : 1,
+            "hostname" : "ae10.cr2-atl2.ip4.gtt.net",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "ip" : "199.229.229.201"
+         },
+         {
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "141.136.111.138",
+            "hostname" : "ae21.cr4-atl2.ip4.gtt.net",
+            "success" : 1,
+            "rtt" : 40,
+            "ttl" : 6,
+            "query" : 1
+         },
+         {
+            "rtt" : 10.3,
+            "ttl" : 7,
+            "query" : 1,
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "72.29.215.51",
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ip" : "148.66.237.104",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "query" : 1,
+            "ttl" : 8,
+            "rtt" : 63.7
+         },
+         {
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be136.bbrt01.dal01.flexential.net",
+            "ip" : "148.66.237.92",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 9,
+            "rtt" : 63.9
+         },
+         {
+            "ttl" : 10,
+            "rtt" : 64.2,
+            "query" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.7.42",
+            "hostname" : "be10.bbrt02.dal01.flexential.net",
+            "success" : 1
+         },
+         {
+            "ip" : "66.51.7.70",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be106.bbrt01.las03.flexential.net",
+            "success" : 1,
+            "ttl" : 11,
+            "rtt" : 64.4,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "rtt" : 64.4,
+            "ttl" : 12,
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.90",
+            "success" : 1
+         },
+         {
+            "rtt" : 63.8,
+            "ttl" : 13,
+            "query" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "ip" : "66.51.5.41",
+            "success" : 1
+         },
+         {
+            "ttl" : 14,
+            "rtt" : 64.4,
+            "query" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.9.125",
+            "hostname" : "be150.bbrt01.slc04.flexential.net",
+            "success" : 1
+         },
+         {
+            "ttl" : 15,
+            "rtt" : 64.5,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be31.crrt01.slc04.flexential.net",
+            "ip" : "66.51.4.242"
+         },
+         {
+            "success" : 1,
+            "ip" : "66.51.1.94",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "query" : 1,
+            "rtt" : 64.2,
+            "ttl" : 16
+         },
+         {
+            "query" : 1,
+            "rtt" : 63.4,
+            "ttl" : 17,
+            "success" : 1,
+            "ip" : "206.71.76.62",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "speedster.slc04.viawest.net"
+         }
+      ],
+      "ts" : 1679566681
+   },
+   {
+      "val" : [
+         {
+            "ip" : "149.149.10.252",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1,
+            "ttl" : 1,
+            "rtt" : 0.5,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ip" : "149.149.2.1",
+            "query" : 1,
+            "rtt" : 2.3,
+            "ttl" : 2
+         },
+         {
+            "success" : 1,
+            "ip" : "63.135.176.205",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "rtt" : 3.5,
+            "ttl" : 3,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "NTT-LTD-2914, US",
+               "number" : 2914
+            },
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net",
+            "ip" : "128.241.219.93",
+            "query" : 1,
+            "rtt" : 11,
+            "ttl" : 4
+         },
+         {
+            "query" : 1,
+            "rtt" : 11.2,
+            "ttl" : 5,
+            "hostname" : "ae10.cr2-atl2.ip4.gtt.net",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "ip" : "199.229.229.201",
+            "success" : 1
+         },
+         {
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "ip" : "89.149.141.94",
+            "hostname" : "ae22.cr4-atl2.ip4.gtt.net",
+            "success" : 1,
+            "ttl" : 6,
+            "rtt" : 73.8,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 7,
+            "rtt" : 11,
+            "ip" : "72.29.215.51",
+            "as" : {
+               "owner" : "GTT-BACKBONE GTT, US",
+               "number" : 3257
+            },
+            "success" : 1
+         },
+         {
+            "ttl" : 8,
+            "rtt" : 64.7,
+            "query" : 1,
+            "ip" : "148.66.237.104",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "success" : 1
+         },
+         {
+            "rtt" : 64.7,
+            "ttl" : 9,
+            "query" : 1,
+            "success" : 1,
+            "hostname" : "be136.bbrt01.dal01.flexential.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "148.66.237.92"
+         },
+         {
+            "success" : 1,
+            "ip" : "66.51.7.42",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be10.bbrt02.dal01.flexential.net",
+            "rtt" : 64.2,
+            "ttl" : 10,
+            "query" : 1
+         },
+         {
+            "hostname" : "be106.bbrt01.las03.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.70",
+            "success" : 1,
+            "query" : 1,
+            "rtt" : 64.8,
+            "ttl" : 11
+         },
+         {
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.7.90",
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "success" : 1,
+            "rtt" : 64,
+            "ttl" : 12,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 13,
+            "rtt" : 63.7,
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "ip" : "66.51.5.41"
+         },
+         {
+            "rtt" : 63.8,
+            "ttl" : 14,
+            "query" : 1,
+            "ip" : "66.51.9.125",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be150.bbrt01.slc04.flexential.net",
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 15,
+            "rtt" : 64,
+            "hostname" : "be31.crrt01.slc04.flexential.net",
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.4.242",
+            "success" : 1
+         },
+         {
+            "ttl" : 16,
+            "rtt" : 65.8,
+            "query" : 1,
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.1.94",
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ip" : "206.71.76.62",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "speedster.slc04.viawest.net",
+            "query" : 1,
+            "rtt" : 63.5,
+            "ttl" : 17
+         }
+      ],
+      "ts" : 1679570281
+   },
+   {
+      "val" : [
+         {
+            "query" : 1,
+            "ttl" : 1,
+            "success" : 1
+         },
+         {
+            "rtt" : 2.2,
+            "ttl" : 2,
+            "query" : 1,
+            "success" : 1,
+            "ip" : "149.149.2.1",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            }
+         },
+         {
+            "rtt" : 2.1,
+            "ttl" : 3,
+            "query" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ip" : "63.135.176.205"
+         },
+         {
+            "rtt" : 11.2,
+            "ttl" : 4,
+            "query" : 1,
+            "success" : 1,
+            "hostname" : "ce-2-1-0.a02.atlnga05.us.bb.gin.ntt.net",
+            "as" : {
+               "number" : 2914,
+               "owner" : "NTT-LTD-2914, US"
+            },
+            "ip" : "128.241.219.93"
+         },
+         {
+            "query" : 1,
+            "ttl" : 5,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "rtt" : 10.3,
+            "ttl" : 6,
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "ip" : "89.149.141.94",
+            "hostname" : "ae22.cr4-atl2.ip4.gtt.net",
+            "success" : 1
+         },
+         {
+            "ip" : "72.29.215.51",
+            "as" : {
+               "number" : 3257,
+               "owner" : "GTT-BACKBONE GTT, US"
+            },
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 7,
+            "rtt" : 10.6
+         },
+         {
+            "query" : 1,
+            "ttl" : 8,
+            "rtt" : 63.6,
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "148.66.237.104",
+            "hostname" : "be21.bbrt01.atl10.flexential.net",
+            "success" : 1
+         },
+         {
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "148.66.237.92",
+            "hostname" : "be136.bbrt01.dal01.flexential.net",
+            "success" : 1,
+            "ttl" : 9,
+            "rtt" : 63.3,
+            "query" : 1
+         },
+         {
+            "rtt" : 64.3,
+            "ttl" : 10,
+            "query" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.42",
+            "hostname" : "be10.bbrt02.dal01.flexential.net",
+            "success" : 1
+         },
+         {
+            "rtt" : 64.3,
+            "ttl" : 11,
+            "query" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.7.70",
+            "hostname" : "be106.bbrt01.las03.flexential.net",
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be10.bbrt02.las03.flexential.net",
+            "ip" : "66.51.7.90",
+            "rtt" : 64.1,
+            "ttl" : 12,
+            "query" : 1
+         },
+         {
+            "as" : {
+               "owner" : "ASN-VINS, US",
+               "number" : 13649
+            },
+            "ip" : "66.51.5.41",
+            "hostname" : "be102.bbrt02.slc09.flexential.net",
+            "success" : 1,
+            "ttl" : 13,
+            "rtt" : 64.3,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "hostname" : "be150.bbrt01.slc04.flexential.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.9.125",
+            "query" : 1,
+            "ttl" : 14,
+            "rtt" : 64.3
+         },
+         {
+            "ip" : "66.51.4.242",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "hostname" : "be31.crrt01.slc04.flexential.net",
+            "success" : 1,
+            "query" : 1,
+            "ttl" : 15,
+            "rtt" : 64.5
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "66.51.1.94",
+            "hostname" : "vl62.aggm01.slc04.viawest.net",
+            "ttl" : 16,
+            "rtt" : 64,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "hostname" : "speedster.slc04.viawest.net",
+            "as" : {
+               "number" : 13649,
+               "owner" : "ASN-VINS, US"
+            },
+            "ip" : "206.71.76.62",
+            "query" : 1,
+            "ttl" : 17,
+            "rtt" : 63.5
+         }
+      ],
+      "ts" : 1679573881
+   }
+]

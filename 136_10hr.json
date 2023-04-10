@@ -1,0 +1,1688 @@
+[
+   {
+      "val" : [
+         {
+            "ip" : "149.149.10.252",
+            "query" : 1,
+            "rtt" : 0.5,
+            "ttl" : 1,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            }
+         },
+         {
+            "ip" : "149.149.2.1",
+            "query" : 1,
+            "rtt" : 2.3,
+            "ttl" : 2,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "63.135.177.178",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1,
+            "ttl" : 3,
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "rtt" : 2.9
+         },
+         {
+            "ip" : "204.29.14.241",
+            "query" : 1,
+            "rtt" : 3.4,
+            "ttl" : 4,
+            "success" : 1,
+            "as" : {
+               "number" : 11758,
+               "owner" : "IRISNETWORKS, US"
+            }
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 5
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 6
+         },
+         {
+            "ttl" : 7,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 8,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 9,
+            "success" : 1
+         },
+         {
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "rtt" : 13.1,
+            "success" : 1,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "ttl" : 10,
+            "query" : 1,
+            "ip" : "184.105.35.205"
+         },
+         {
+            "success" : 1,
+            "ttl" : 11,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "184.104.196.49",
+            "success" : 1,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "ttl" : 12,
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "rtt" : 19.8
+         },
+         {
+            "ttl" : 13,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 14,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 15
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 16
+         },
+         {
+            "ttl" : 17,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 18,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 19,
+            "success" : 1
+         },
+         {
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "rtt" : 34.2,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "success" : 1,
+            "ttl" : 20,
+            "query" : 1,
+            "ip" : "136.142.253.25"
+         },
+         {
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "rtt" : 34,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "success" : 1,
+            "ttl" : 21,
+            "query" : 1,
+            "ip" : "136.142.202.118"
+         }
+      ],
+      "ts" : 1679541256
+   },
+   {
+      "ts" : 1679544856,
+      "val" : [
+         {
+            "rtt" : 0.7,
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ttl" : 1,
+            "query" : 1,
+            "ip" : "149.149.10.252"
+         },
+         {
+            "rtt" : 2.3,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "ttl" : 2,
+            "query" : 1,
+            "ip" : "149.149.2.1"
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ttl" : 3,
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "rtt" : 3.1,
+            "query" : 1,
+            "ip" : "63.135.177.178"
+         },
+         {
+            "ip" : "204.29.14.241",
+            "query" : 1,
+            "rtt" : 3.6,
+            "ttl" : 4,
+            "as" : {
+               "number" : 11758,
+               "owner" : "IRISNETWORKS, US"
+            },
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 5
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 6
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 7
+         },
+         {
+            "ttl" : 8,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 9,
+            "success" : 1
+         },
+         {
+            "ip" : "184.105.35.205",
+            "query" : 1,
+            "ttl" : 10,
+            "success" : 1,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "rtt" : 13.9,
+            "hostname" : "e0-27.core2.bna1.he.net"
+         },
+         {
+            "ttl" : 11,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "rtt" : 19.6,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "success" : 1,
+            "ttl" : 12,
+            "query" : 1,
+            "ip" : "184.104.196.49"
+         },
+         {
+            "rtt" : 30,
+            "hostname" : "port-channel14.core3.chi1.he.net",
+            "ttl" : 13,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "success" : 1,
+            "ip" : "184.104.197.241",
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 14,
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 15,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 16,
+            "success" : 1
+         },
+         {
+            "ttl" : 17,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 18,
+            "success" : 1
+         },
+         {
+            "ip" : "136.142.253.153",
+            "query" : 1,
+            "ttl" : 19,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "rtt" : 32.9,
+            "hostname" : "et-3-1-0-1287.externals-cl.gw.pitt.edu"
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            },
+            "ttl" : 20,
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "rtt" : 34.1,
+            "query" : 1,
+            "ip" : "136.142.253.25"
+         },
+         {
+            "query" : 1,
+            "ip" : "136.142.202.118",
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "rtt" : 33.7,
+            "success" : 1,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            },
+            "ttl" : 21
+         }
+      ]
+   },
+   {
+      "ts" : 1679548456,
+      "val" : [
+         {
+            "rtt" : 0.4,
+            "ttl" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "success" : 1,
+            "ip" : "149.149.10.252",
+            "query" : 1
+         },
+         {
+            "ip" : "149.149.2.1",
+            "query" : 1,
+            "rtt" : 2.3,
+            "ttl" : 2,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1
+         },
+         {
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "rtt" : 2.9,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "success" : 1,
+            "ttl" : 3,
+            "query" : 1,
+            "ip" : "63.135.177.178"
+         },
+         {
+            "rtt" : 3.2,
+            "ttl" : 4,
+            "success" : 1,
+            "as" : {
+               "number" : 11758,
+               "owner" : "IRISNETWORKS, US"
+            },
+            "ip" : "204.29.14.241",
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 5,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 6,
+            "success" : 1
+         },
+         {
+            "ttl" : 7,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 8,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 9
+         },
+         {
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "rtt" : 13,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "success" : 1,
+            "ttl" : 10,
+            "query" : 1,
+            "ip" : "184.105.35.205"
+         },
+         {
+            "success" : 1,
+            "ttl" : 11,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "184.104.196.49",
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "rtt" : 19.7,
+            "success" : 1,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "ttl" : 12
+         },
+         {
+            "query" : 1,
+            "ttl" : 13,
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 14,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 15,
+            "success" : 1
+         },
+         {
+            "ttl" : 16,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 17
+         },
+         {
+            "query" : 1,
+            "ttl" : 18,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 19,
+            "success" : 1
+         },
+         {
+            "ttl" : 20,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "rtt" : 38.1,
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "ip" : "136.142.253.25",
+            "query" : 1
+         },
+         {
+            "rtt" : 33.3,
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "ttl" : 21,
+            "success" : 1,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            },
+            "ip" : "136.142.202.118",
+            "query" : 1
+         }
+      ]
+   },
+   {
+      "ts" : 1679552056,
+      "val" : [
+         {
+            "query" : 1,
+            "ip" : "149.149.10.252",
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1,
+            "ttl" : 1,
+            "rtt" : 0.3
+         },
+         {
+            "ttl" : 2,
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "rtt" : 2,
+            "ip" : "149.149.2.1",
+            "query" : 1
+         },
+         {
+            "ttl" : 3,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "rtt" : 3.3,
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "ip" : "63.135.177.178",
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "204.29.14.241",
+            "rtt" : 3.4,
+            "success" : 1,
+            "as" : {
+               "owner" : "IRISNETWORKS, US",
+               "number" : 11758
+            },
+            "ttl" : 4
+         },
+         {
+            "success" : 1,
+            "ttl" : 5,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 6,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 7,
+            "success" : 1
+         },
+         {
+            "ttl" : 8,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 9,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 10,
+            "success" : 1,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "rtt" : 13.8,
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "ip" : "184.105.35.205",
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "ttl" : 11,
+            "hostname" : "100ge0-75.core2.ind1.he.net",
+            "rtt" : 19.7,
+            "query" : 1,
+            "ip" : "184.105.65.149"
+         },
+         {
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "success" : 1,
+            "ttl" : 12,
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "rtt" : 20.2,
+            "query" : 1,
+            "ip" : "184.104.196.49"
+         },
+         {
+            "ttl" : 13,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "success" : 1,
+            "rtt" : 26.4,
+            "hostname" : "port-channel14.core3.chi1.he.net",
+            "ip" : "184.104.197.241",
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 14,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 15,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 16
+         },
+         {
+            "success" : 1,
+            "ttl" : 17,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 18
+         },
+         {
+            "hostname" : "et-3-1-0-1287.externals-cl.gw.pitt.edu",
+            "rtt" : 33.2,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "ttl" : 19,
+            "query" : 1,
+            "ip" : "136.142.253.153"
+         },
+         {
+            "ip" : "136.142.253.25",
+            "query" : 1,
+            "rtt" : 34.1,
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "ttl" : 20,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            }
+         },
+         {
+            "query" : 1,
+            "ip" : "136.142.202.118",
+            "success" : 1,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            },
+            "ttl" : 21,
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "rtt" : 33.6
+         }
+      ]
+   },
+   {
+      "ts" : 1679555656,
+      "val" : [
+         {
+            "ip" : "149.149.10.252",
+            "query" : 1,
+            "ttl" : 1,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "rtt" : 0.5
+         },
+         {
+            "query" : 1,
+            "ip" : "149.149.2.1",
+            "rtt" : 2,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "ttl" : 2
+         },
+         {
+            "query" : 1,
+            "ip" : "63.135.177.178",
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "rtt" : 6.4,
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ttl" : 3
+         },
+         {
+            "as" : {
+               "number" : 11758,
+               "owner" : "IRISNETWORKS, US"
+            },
+            "success" : 1,
+            "ttl" : 4,
+            "rtt" : 3.4,
+            "query" : 1,
+            "ip" : "204.29.14.241"
+         },
+         {
+            "success" : 1,
+            "ttl" : 5,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 6
+         },
+         {
+            "ttl" : 7,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 8
+         },
+         {
+            "ttl" : 9,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "success" : 1,
+            "ttl" : 10,
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "rtt" : 13.1,
+            "query" : 1,
+            "ip" : "184.105.35.205"
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 11
+         },
+         {
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "rtt" : 19.9,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "success" : 1,
+            "ttl" : 12,
+            "query" : 1,
+            "ip" : "184.104.196.49"
+         },
+         {
+            "ttl" : 13,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 14,
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 15,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 16
+         },
+         {
+            "ttl" : 17,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 18,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 19
+         },
+         {
+            "ip" : "136.142.253.25",
+            "query" : 1,
+            "ttl" : 20,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            },
+            "success" : 1,
+            "rtt" : 34.7,
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu"
+         },
+         {
+            "query" : 1,
+            "ip" : "136.142.202.118",
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "rtt" : 33.5,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            },
+            "success" : 1,
+            "ttl" : 21
+         }
+      ]
+   },
+   {
+      "ts" : 1679559256,
+      "val" : [
+         {
+            "ip" : "149.149.10.252",
+            "query" : 1,
+            "rtt" : 0.4,
+            "ttl" : 1,
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            }
+         },
+         {
+            "ttl" : 2,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "rtt" : 2.2,
+            "ip" : "149.149.2.1",
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "63.135.177.178",
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "rtt" : 2.9,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "success" : 1,
+            "ttl" : 3
+         },
+         {
+            "query" : 1,
+            "ip" : "204.29.14.241",
+            "rtt" : 3.2,
+            "success" : 1,
+            "as" : {
+               "number" : 11758,
+               "owner" : "IRISNETWORKS, US"
+            },
+            "ttl" : 4
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 5
+         },
+         {
+            "ttl" : 6,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 7,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 8,
+            "success" : 1
+         },
+         {
+            "ttl" : 9,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "ttl" : 10,
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "rtt" : 13.2,
+            "query" : 1,
+            "ip" : "184.105.35.205"
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 11
+         },
+         {
+            "ip" : "184.104.196.49",
+            "query" : 1,
+            "rtt" : 19.4,
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "ttl" : 12,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 13
+         },
+         {
+            "success" : 1,
+            "ttl" : 14,
+            "query" : 1
+         },
+         {
+            "ttl" : 15,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 16,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 17
+         },
+         {
+            "success" : 1,
+            "ttl" : 18,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 19
+         },
+         {
+            "ttl" : 20,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "rtt" : 33.8,
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "ip" : "136.142.253.25",
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            },
+            "ttl" : 21,
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "rtt" : 33.6,
+            "query" : 1,
+            "ip" : "136.142.202.118"
+         }
+      ]
+   },
+   {
+      "ts" : 1679562856,
+      "val" : [
+         {
+            "ip" : "149.149.10.252",
+            "query" : 1,
+            "ttl" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1,
+            "rtt" : 1.9
+         },
+         {
+            "ip" : "149.149.2.1",
+            "query" : 1,
+            "ttl" : 2,
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "rtt" : 2
+         },
+         {
+            "query" : 1,
+            "ip" : "63.135.177.178",
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ttl" : 3,
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "rtt" : 2.8
+         },
+         {
+            "ttl" : 4,
+            "success" : 1,
+            "as" : {
+               "number" : 11758,
+               "owner" : "IRISNETWORKS, US"
+            },
+            "rtt" : 3,
+            "ip" : "204.29.14.241",
+            "query" : 1
+         },
+         {
+            "ttl" : 5,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 6,
+            "query" : 1
+         },
+         {
+            "ttl" : 7,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 8,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 9
+         },
+         {
+            "ttl" : 10,
+            "success" : 1,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "rtt" : 12.6,
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "ip" : "184.105.35.205",
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 11,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "184.104.196.49",
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "rtt" : 19.4,
+            "success" : 1,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "ttl" : 12
+         },
+         {
+            "query" : 1,
+            "ttl" : 13,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 14
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 15
+         },
+         {
+            "success" : 1,
+            "ttl" : 16,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 17
+         },
+         {
+            "ttl" : 18,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 19,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ip" : "136.142.253.25",
+            "query" : 1,
+            "rtt" : 33.9,
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "ttl" : 20,
+            "success" : 1,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            }
+         },
+         {
+            "ip" : "136.142.202.118",
+            "query" : 1,
+            "ttl" : 21,
+            "success" : 1,
+            "as" : {
+               "owner" : "UPITT-AS, US",
+               "number" : 4130
+            },
+            "rtt" : 33.7,
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu"
+         }
+      ]
+   },
+   {
+      "val" : [
+         {
+            "query" : 1,
+            "ip" : "149.149.10.252",
+            "rtt" : 1.8,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1,
+            "ttl" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "149.149.2.1",
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "success" : 1,
+            "ttl" : 2,
+            "rtt" : 2.3
+         },
+         {
+            "ip" : "63.135.177.178",
+            "query" : 1,
+            "ttl" : 3,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1,
+            "rtt" : 3.2,
+            "hostname" : "host-63-135-177-178.twlakes.net"
+         },
+         {
+            "ip" : "204.29.14.241",
+            "query" : 1,
+            "ttl" : 4,
+            "success" : 1,
+            "as" : {
+               "number" : 11758,
+               "owner" : "IRISNETWORKS, US"
+            },
+            "rtt" : 3.5
+         },
+         {
+            "query" : 1,
+            "ttl" : 5,
+            "success" : 1
+         },
+         {
+            "ttl" : 6,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 7,
+            "query" : 1
+         },
+         {
+            "ttl" : 8,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 9,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "184.105.35.205",
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "success" : 1,
+            "ttl" : 10,
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "rtt" : 13.5
+         },
+         {
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "success" : 1,
+            "ttl" : 11,
+            "hostname" : "100ge0-75.core2.ind1.he.net",
+            "rtt" : 15.2,
+            "query" : 1,
+            "ip" : "184.105.65.149"
+         },
+         {
+            "ip" : "184.104.196.49",
+            "query" : 1,
+            "rtt" : 19.2,
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "ttl" : 12,
+            "success" : 1,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            }
+         },
+         {
+            "ttl" : 13,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 14,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 15
+         },
+         {
+            "ttl" : 16,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 17,
+            "query" : 1
+         },
+         {
+            "ttl" : 18,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 19,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "136.142.253.25",
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "rtt" : 34.1,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "ttl" : 20
+         },
+         {
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "rtt" : 33.7,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "ttl" : 21,
+            "query" : 1,
+            "ip" : "136.142.202.118"
+         }
+      ],
+      "ts" : 1679566456
+   },
+   {
+      "ts" : 1679570056,
+      "val" : [
+         {
+            "ip" : "149.149.10.252",
+            "query" : 1,
+            "rtt" : 0.6,
+            "ttl" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "149.149.2.1",
+            "rtt" : 2,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "success" : 1,
+            "ttl" : 2
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 19331,
+               "owner" : "TWIN-LAKES, US"
+            },
+            "ttl" : 3,
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "rtt" : 2.8,
+            "query" : 1,
+            "ip" : "63.135.177.178"
+         },
+         {
+            "query" : 1,
+            "ip" : "204.29.14.241",
+            "rtt" : 4.3,
+            "success" : 1,
+            "as" : {
+               "owner" : "IRISNETWORKS, US",
+               "number" : 11758
+            },
+            "ttl" : 4
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 5
+         },
+         {
+            "ttl" : 6,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 7
+         },
+         {
+            "ttl" : 8,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 9,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "ttl" : 10,
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "rtt" : 12.6,
+            "query" : 1,
+            "ip" : "184.105.35.205"
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 11
+         },
+         {
+            "ip" : "184.104.196.49",
+            "query" : 1,
+            "ttl" : 12,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "success" : 1,
+            "rtt" : 19.5,
+            "hostname" : "100ge5-1.core1.chi1.he.net"
+         },
+         {
+            "success" : 1,
+            "ttl" : 13,
+            "query" : 1
+         },
+         {
+            "ttl" : 14,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 15,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 16,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 17
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 18
+         },
+         {
+            "ttl" : 19,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "ttl" : 20,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "rtt" : 33.9,
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "ip" : "136.142.253.25",
+            "query" : 1
+         },
+         {
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "rtt" : 33.6,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "success" : 1,
+            "ttl" : 21,
+            "query" : 1,
+            "ip" : "136.142.202.118"
+         }
+      ]
+   },
+   {
+      "ts" : 1679573656,
+      "val" : [
+         {
+            "rtt" : 0.4,
+            "ttl" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "success" : 1,
+            "ip" : "149.149.10.252",
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "149.149.2.1",
+            "rtt" : 2.2,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "ttl" : 2
+         },
+         {
+            "ttl" : 3,
+            "success" : 1,
+            "as" : {
+               "owner" : "TWIN-LAKES, US",
+               "number" : 19331
+            },
+            "rtt" : 3.3,
+            "hostname" : "host-63-135-177-178.twlakes.net",
+            "ip" : "63.135.177.178",
+            "query" : 1
+         },
+         {
+            "rtt" : 3.2,
+            "success" : 1,
+            "as" : {
+               "owner" : "IRISNETWORKS, US",
+               "number" : 11758
+            },
+            "ttl" : 4,
+            "query" : 1,
+            "ip" : "204.29.14.241"
+         },
+         {
+            "success" : 1,
+            "ttl" : 5,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 6,
+            "success" : 1
+         },
+         {
+            "ttl" : 7,
+            "success" : 1,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 8,
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 9,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "184.105.35.205",
+            "hostname" : "e0-27.core2.bna1.he.net",
+            "rtt" : 13.3,
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "success" : 1,
+            "ttl" : 10
+         },
+         {
+            "ttl" : 11,
+            "as" : {
+               "owner" : "HURRICANE, US",
+               "number" : 6939
+            },
+            "success" : 1,
+            "rtt" : 18.8,
+            "hostname" : "100ge0-75.core2.ind1.he.net",
+            "ip" : "184.105.65.149",
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "184.104.196.49",
+            "as" : {
+               "number" : 6939,
+               "owner" : "HURRICANE, US"
+            },
+            "success" : 1,
+            "ttl" : 12,
+            "hostname" : "100ge5-1.core1.chi1.he.net",
+            "rtt" : 19.9
+         },
+         {
+            "query" : 1,
+            "ttl" : 13,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 14,
+            "success" : 1
+         },
+         {
+            "success" : 1,
+            "ttl" : 15,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "success" : 1,
+            "ttl" : 16
+         },
+         {
+            "success" : 1,
+            "ttl" : 17,
+            "query" : 1
+         },
+         {
+            "query" : 1,
+            "ttl" : 18,
+            "success" : 1
+         },
+         {
+            "query" : 1,
+            "ip" : "136.142.253.153",
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "ttl" : 19,
+            "hostname" : "et-3-1-0-1287.externals-cl.gw.pitt.edu",
+            "rtt" : 33.3
+         },
+         {
+            "ip" : "136.142.253.25",
+            "query" : 1,
+            "rtt" : 34.2,
+            "hostname" : "vl717.cl-core-2.gw.pitt.edu",
+            "ttl" : 20,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "success" : 1
+         },
+         {
+            "rtt" : 33.7,
+            "hostname" : "cl-perfsonar0-prod.cssd.pitt.edu",
+            "ttl" : 21,
+            "success" : 1,
+            "as" : {
+               "number" : 4130,
+               "owner" : "UPITT-AS, US"
+            },
+            "ip" : "136.142.202.118",
+            "query" : 1
+         }
+      ]
+   }
+]
