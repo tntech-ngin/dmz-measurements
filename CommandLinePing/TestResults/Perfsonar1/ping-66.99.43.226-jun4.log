@@ -1,0 +1,1440 @@
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.720/14.828/14.889/0.089 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.797/14.871/14.919/0.064 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9019ms
+rtt min/avg/max/mdev = 14.755/14.839/14.901/0.072 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.759/14.834/14.884/0.084 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 14.830/14.855/14.942/0.166 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.732/14.817/14.867/0.159 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.845/14.892/14.962/0.126 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 14.809/14.857/14.920/0.167 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.785/14.833/14.883/0.063 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 14.787/14.838/14.945/0.047 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.6 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.696/14.829/14.888/0.142 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9019ms
+rtt min/avg/max/mdev = 14.786/14.836/14.897/0.100 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 14.797/14.844/14.899/0.127 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.792/14.853/14.921/0.037 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.756/14.836/14.902/0.043 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.771/14.854/14.905/0.037 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.738/14.823/14.881/0.169 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 14.828/14.860/14.896/0.058 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.779/14.832/14.883/0.066 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.838/14.878/14.929/0.062 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.792/14.845/14.945/0.089 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.759/14.863/14.950/0.172 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 14.767/14.840/14.877/0.126 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.811/14.852/14.905/0.125 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9009ms
+rtt min/avg/max/mdev = 14.803/14.869/14.925/0.039 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.9 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.790/14.859/14.921/0.168 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.763/14.814/14.855/0.083 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.764/14.865/14.931/0.140 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 14.758/14.859/14.953/0.143 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.776/14.815/14.902/0.167 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.775/14.842/14.879/0.157 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9021ms
+rtt min/avg/max/mdev = 14.779/14.836/14.935/0.129 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.790/14.852/14.954/0.152 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.781/14.826/14.871/0.099 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 14.771/14.832/14.895/0.166 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 14.753/14.844/14.936/0.173 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.789/14.828/14.873/0.026 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.835/14.869/14.930/0.098 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.761/14.849/14.935/0.048 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.811/14.844/14.907/0.136 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.783/14.854/14.907/0.064 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.782/14.838/14.888/0.112 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9008ms
+rtt min/avg/max/mdev = 14.709/14.821/14.878/0.151 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.794/14.854/14.907/0.126 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.775/14.838/14.896/0.137 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.796/14.850/14.901/0.113 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.9 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 14.777/14.866/14.922/0.047 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9020ms
+rtt min/avg/max/mdev = 14.837/14.883/14.957/0.086 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.821/14.865/14.900/0.111 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.793/14.867/14.955/0.131 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.727/14.817/14.877/0.160 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.9 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.758/14.855/14.965/0.154 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.799/14.841/14.906/0.081 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.9 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.765/14.855/14.910/0.070 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.821/14.844/14.869/0.016 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.802/14.842/14.905/0.166 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 14.808/14.865/14.919/0.137 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.833/14.870/14.942/0.099 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.784/14.830/14.869/0.124 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.796/14.856/14.896/0.146 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.757/14.840/14.928/0.105 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.790/14.845/14.906/0.065 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.814/14.867/14.906/0.098 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.823/14.868/14.929/0.158 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 14.812/14.883/14.963/0.088 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.787/14.841/14.998/0.173 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.742/14.817/14.871/0.068 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.761/14.843/14.890/0.100 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.798/14.858/14.919/0.125 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.819/14.846/14.886/0.023 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=15.0 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.809/14.899/15.015/0.109 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9019ms
+rtt min/avg/max/mdev = 14.737/14.845/14.908/0.160 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.791/14.850/14.918/0.167 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.830/14.870/14.920/0.027 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.756/14.861/14.896/0.116 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.9 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 14.836/14.888/14.940/0.115 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.775/14.831/14.927/0.168 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.9 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9007ms
+rtt min/avg/max/mdev = 14.770/14.881/14.955/0.089 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.793/14.855/14.917/0.118 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.790/14.823/14.901/0.086 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.796/14.868/14.941/0.105 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.748/14.867/14.978/0.166 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 14.824/14.871/14.905/0.024 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 14.765/14.850/14.914/0.163 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.832/14.878/14.907/0.111 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.747/14.837/14.919/0.091 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.757/14.856/14.920/0.129 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.795/14.837/14.892/0.112 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.796/14.865/14.963/0.161 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.752/14.831/14.906/0.129 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.6 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 14.650/14.839/14.891/0.149 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 14.755/14.820/14.891/0.105 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 14.724/14.863/14.934/0.175 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 14.841/14.890/14.939/0.065 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.9 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.7 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 14.769/14.819/14.946/0.091 ms
+PING 66.99.43.226 (66.99.43.226) 56(84) bytes of data.
+64 bytes from 66.99.43.226: icmp_seq=1 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=3 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=4 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=5 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=6 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=7 ttl=57 time=14.7 ms
+64 bytes from 66.99.43.226: icmp_seq=8 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=9 ttl=57 time=14.8 ms
+64 bytes from 66.99.43.226: icmp_seq=10 ttl=57 time=14.8 ms
+
+--- 66.99.43.226 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 14.794/14.826/14.872/0.082 ms
