@@ -1,0 +1,1440 @@
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.39 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.02 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.395/62.020/62.189/0.092 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.46 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.07 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.460/62.029/62.141/0.082 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.41 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.414/62.101/62.251/0.092 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.50 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.40 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.503/62.123/62.252/0.107 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.76 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.27 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.763/62.044/62.235/0.118 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.08 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.344/62.054/62.157/0.075 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.62 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.23 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.615/62.034/62.180/0.104 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.43 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=63.70 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.10 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 63.696/62.098/62.393/0.267 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.52 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.50 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 62.521/62.100/62.269/0.123 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.38 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.15 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.381/62.053/62.172/0.084 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=63.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.47 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.21 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 63.156/62.110/62.345/0.188 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.10 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.361/62.085/62.162/0.057 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=71.61 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.48 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.49 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.40 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=69.37 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9515ms
+rtt max/min/avg/mdev = 71.615/62.145/63.930/2.626 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.49 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.51 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.40 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.06 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.512/62.056/62.268/0.126 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.53 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.11 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.534/62.111/62.210/0.084 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.17 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.289/62.037/62.142/0.060 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.47 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=63.65 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=64.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.30 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9503ms
+rtt max/min/avg/mdev = 64.303/62.172/62.591/0.555 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.52 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.39 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=61.98 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.02 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.19 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.523/61.976/62.209/0.136 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=63.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.07 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 63.347/62.067/62.272/0.215 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.63 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.08 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.628/62.043/62.221/0.114 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.09 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.347/62.089/62.223/0.085 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.38 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.14 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.385/62.092/62.207/0.067 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.51 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.55 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.25 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.549/62.084/62.259/0.128 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.38 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.46 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.49 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.38 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 62.490/62.178/62.329/0.082 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.41 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.37 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.17 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.411/62.094/62.242/0.073 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.28 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.294/62.097/62.218/0.049 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.37 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.40 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.26 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.404/62.102/62.231/0.066 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.39 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.51 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.512/62.127/62.257/0.087 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=61.97 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.44 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.37 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.443/61.969/62.210/0.115 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.39 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.55 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.35 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.552/62.160/62.261/0.103 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=66.95 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.40 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9504ms
+rtt max/min/avg/mdev = 66.951/62.089/62.661/0.858 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=63.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.41 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.14 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 63.276/62.030/62.334/0.209 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.48 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.54 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.18 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.536/62.104/62.243/0.126 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.46 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.51 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.506/62.039/62.258/0.116 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.45 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.43 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.445/62.127/62.290/0.089 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.43 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.46 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=67.47 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.44 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.09 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9505ms
+rtt max/min/avg/mdev = 67.466/62.094/62.795/0.934 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.37 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.12 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.369/62.123/62.256/0.069 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.52 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.53 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.38 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.49 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.21 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 62.527/62.209/62.361/0.095 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=63.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.43 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.44 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 63.066/62.080/62.321/0.194 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.01 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.40 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.26 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.404/62.005/62.194/0.092 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.47 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.37 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.09 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.467/62.051/62.173/0.105 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.53 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.58 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.23 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 62.578/62.141/62.308/0.105 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.26 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.347/62.091/62.172/0.062 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.46 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=61.99 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.02 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.11 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.465/61.985/62.145/0.085 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.41 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.27 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.408/62.096/62.227/0.091 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.15 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.351/62.028/62.160/0.068 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.39 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.14 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.389/62.042/62.189/0.074 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.23 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.273/62.095/62.205/0.051 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.45 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.56 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.564/62.094/62.259/0.121 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.46 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.02 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.58 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.13 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.585/62.018/62.216/0.135 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.53 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.17 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.528/62.068/62.236/0.097 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.11 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.353/62.033/62.156/0.088 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.54 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.29 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.544/62.030/62.175/0.109 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.37 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.13 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.365/62.051/62.225/0.090 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.28 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.342/62.026/62.192/0.086 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.39 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=61.98 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.01 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.01 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.15 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.394/61.981/62.145/0.097 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.14 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.340/62.064/62.175/0.076 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.42 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.11 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.425/62.047/62.162/0.093 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.58 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.15 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.578/62.093/62.256/0.116 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.47 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.25 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.467/62.027/62.179/0.082 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=68.91 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.10 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9505ms
+rtt max/min/avg/mdev = 68.912/62.090/62.836/1.215 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.23 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.228/62.075/62.150/0.044 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.43 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.24 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.432/62.055/62.219/0.080 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.59 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.09 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.586/62.049/62.184/0.103 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.41 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.42 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.422/62.029/62.205/0.114 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.25 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.250/62.054/62.151/0.045 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.45 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=61.99 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.30 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.448/61.989/62.154/0.088 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=178.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=226.65 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.23 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9779ms
+rtt max/min/avg/mdev = 226.646/62.068/90.229/44.890 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.21 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.235/62.057/62.155/0.051 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.51 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.32 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.506/62.138/62.256/0.073 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.17 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.349/62.168/62.230/0.049 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.46 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.38 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.37 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.11 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.456/62.106/62.295/0.090 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.53 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.29 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.535/62.081/62.221/0.092 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.33 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.330/62.145/62.206/0.045 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.45 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.23 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.454/62.080/62.226/0.076 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.45 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.25 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.449/62.140/62.253/0.068 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.55 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.55 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.28 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 62.554/62.086/62.293/0.115 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.45 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.80 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.32 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.796/62.052/62.342/0.118 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.56 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.45 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.13 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.555/62.121/62.264/0.116 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.01 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.08 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.34 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.348/62.007/62.214/0.098 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.42 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.40 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.10 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.416/62.095/62.234/0.095 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.51 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.04 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.505/62.044/62.163/0.094 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.36 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.47 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.49 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.23 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 62.495/62.141/62.313/0.087 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.03 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.56 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.24 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.557/62.033/62.213/0.096 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.55 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.05 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.33 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.547/62.047/62.208/0.102 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.12 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=63.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.24 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 63.319/62.100/62.303/0.205 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.45 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.29 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.449/62.040/62.200/0.102 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.11 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.34 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.29 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.338/62.114/62.196/0.059 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.44 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.20 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.441/62.090/62.200/0.063 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.52 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.38 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.44 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.53 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.47 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.36 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9500ms
+rtt max/min/avg/mdev = 62.525/62.130/62.354/0.115 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.49 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.09 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.19 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.29 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.40 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.21 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.07 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.494/62.073/62.231/0.099 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.31 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.01 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.30 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.04 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.01 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.35 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.17 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.20 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.32 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 62.351/62.009/62.184/0.112 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.40 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.17 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.395/62.069/62.209/0.075 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.14 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.32 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.07 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.09 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9499ms
+rtt max/min/avg/mdev = 62.324/62.071/62.182/0.087 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.33 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=62.13 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.06 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.22 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.26 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.10 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.15 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=63.01 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.22 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9498ms
+rtt max/min/avg/mdev = 63.013/62.055/62.272/0.160 ms
+ping to 206.71.76.62 (206.71.76.62)
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=1 ttl=255 time=62.28 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=2 ttl=255 time=64.61 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=3 ttl=255 time=62.70 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=4 ttl=255 time=62.27 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=5 ttl=255 time=62.25 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=6 ttl=255 time=62.23 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=7 ttl=255 time=62.18 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=8 ttl=255 time=62.16 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=9 ttl=255 time=62.24 ms
+56 bytes from speedster.slc04.viawest.net (206.71.76.62): seq=10 ttl=255 time=62.26 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9502ms
+rtt max/min/avg/mdev = 64.606/62.160/62.519/0.454 ms
