@@ -1,0 +1,1439 @@
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.5 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.578/54.709/54.803/0.218 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.695/54.741/54.778/0.210 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.688/54.742/54.791/0.235 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 54.664/54.757/54.825/0.154 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9007ms
+rtt min/avg/max/mdev = 54.680/54.756/54.806/0.316 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.728/54.758/54.828/0.258 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.691/54.749/54.806/0.151 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 54.726/54.761/54.809/0.150 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.653/54.748/54.831/0.059 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 54.724/54.762/54.799/0.024 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 54.711/54.736/54.778/0.314 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.717/54.762/54.830/0.278 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.663/54.742/54.807/0.155 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.686/54.767/54.849/0.114 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.600/54.731/54.809/0.318 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9001ms
+rtt min/avg/max/mdev = 54.696/54.753/54.862/0.239 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 54.678/54.753/54.824/0.260 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.657/54.751/54.826/0.317 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.695/54.734/54.785/0.150 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.9 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9019ms
+rtt min/avg/max/mdev = 54.746/54.798/54.942/0.216 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 54.735/54.776/54.830/0.278 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.9 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.711/54.775/54.907/0.283 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.773/54.802/54.838/0.314 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.769/54.815/54.854/0.183 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.684/54.766/54.842/0.280 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.690/54.757/54.860/0.154 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9005ms
+rtt min/avg/max/mdev = 54.706/54.761/54.829/0.111 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.742/54.773/54.834/0.183 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.667/54.744/54.864/0.242 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.644/54.731/54.819/0.215 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=55.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.679/54.831/55.689/0.400 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.683/54.745/54.810/0.281 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.9 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.742/54.802/54.906/0.280 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=55.0 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 54.689/54.767/55.041/0.328 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.723/54.767/54.805/0.258 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 54.695/54.754/54.850/0.260 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9009ms
+rtt min/avg/max/mdev = 54.687/54.738/54.784/0.315 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9005ms
+rtt min/avg/max/mdev = 54.693/54.748/54.792/0.108 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.665/54.769/54.862/0.155 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.706/54.764/54.807/0.030 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.653/54.748/54.823/0.239 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 54.707/54.748/54.802/0.151 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 54.689/54.746/54.818/0.316 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 54.710/54.761/54.845/0.111 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.653/54.754/54.812/0.317 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.731/54.769/54.812/0.026 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.669/54.751/54.818/0.259 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 54.684/54.755/54.831/0.279 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 54.693/54.761/54.857/0.153 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.736/54.779/54.835/0.183 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 54.713/54.765/54.810/0.109 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.699/54.761/54.807/0.236 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.724/54.765/54.812/0.257 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 54.744/54.778/54.811/0.277 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.705/54.771/54.842/0.316 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.755/54.782/54.816/0.149 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 54.719/54.779/54.826/0.315 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 54.681/54.768/54.856/0.238 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.743/54.782/54.838/0.297 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9007ms
+rtt min/avg/max/mdev = 54.725/54.762/54.809/0.315 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 54.720/54.761/54.814/0.211 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 54.736/54.776/54.868/0.185 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 54.734/54.788/54.839/0.315 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.695/54.763/54.820/0.280 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.708/54.774/54.824/0.151 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.722/54.786/54.833/0.108 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.711/54.755/54.834/0.258 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 54.757/54.786/54.807/0.148 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.674/54.757/54.838/0.189 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.672/54.731/54.810/0.298 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9008ms
+rtt min/avg/max/mdev = 54.690/54.740/54.786/0.297 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.689/54.735/54.827/0.316 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.681/54.759/54.851/0.055 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.682/54.739/54.799/0.315 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.704/54.765/54.889/0.187 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 54.688/54.743/54.847/0.238 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 54.684/54.763/54.835/0.155 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 54.660/54.762/54.830/0.214 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.691/54.735/54.823/0.279 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.712/54.764/54.798/0.026 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 54.648/54.739/54.813/0.214 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.6 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9002ms
+rtt min/avg/max/mdev = 54.667/54.716/54.776/0.152 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.714/54.756/54.809/0.277 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.9 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 54.608/54.745/54.927/0.245 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 54.709/54.772/54.861/0.185 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 9 received, 10% packet loss, time 9018ms
+rtt min/avg/max/mdev = 54.725/54.761/54.814/0.292 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 54.682/54.759/54.844/0.213 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 54.722/54.743/54.759/0.234 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 54.741/54.777/54.836/0.235 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.668/54.746/54.848/0.260 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 54.680/54.731/54.830/0.279 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 54.696/54.763/54.844/0.316 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9007ms
+rtt min/avg/max/mdev = 54.691/54.753/54.838/0.040 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.8 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.667/54.747/54.837/0.215 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.644/54.748/54.815/0.187 ms
+PING 206.71.76.62 (206.71.76.62) 56(84) bytes of data.
+64 bytes from 206.71.76.62: icmp_seq=1 ttl=37 time=54.8 ms
+64 bytes from 206.71.76.62: icmp_seq=2 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=3 ttl=37 time=54.6 ms
+64 bytes from 206.71.76.62: icmp_seq=4 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=5 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=6 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=7 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=8 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=9 ttl=37 time=54.7 ms
+64 bytes from 206.71.76.62: icmp_seq=10 ttl=37 time=54.7 ms
+
+--- 206.71.76.62 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 54.676/54.749/54.806/0.212 ms
