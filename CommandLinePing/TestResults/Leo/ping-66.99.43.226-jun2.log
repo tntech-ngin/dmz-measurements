@@ -1,0 +1,1437 @@
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.03 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.78 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.028/33.700/33.834/0.072 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.80 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.932/33.707/33.793/0.066 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.07 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.08 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.85 ms
+
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.76 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.880/33.707/33.786/0.053 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.03 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.78 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.027/33.696/33.881/0.093 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.10 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.93 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.097/33.743/33.849/0.099 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.77 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.969/33.737/33.830/0.056 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.95 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.000/33.756/33.848/0.065 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.97 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.017/33.748/33.894/0.060 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.06 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.84 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.064/33.695/33.848/0.084 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.06 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.71 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.056/33.713/33.897/0.087 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.82 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.994/33.749/33.818/0.060 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=123.10 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.32 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.12 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.91 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9362ms
+rtt max/min/avg/mdev = 123.095/33.772/42.856/16.048 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.06 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.87 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.060/33.730/33.877/0.085 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.08 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.07 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=34.07 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.78 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.082/33.781/33.953/0.080 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.64 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.76 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.993/33.639/33.806/0.095 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.64 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.70 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.921/33.644/33.789/0.067 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.94 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.984/33.751/33.862/0.078 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.66 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.973/33.665/33.819/0.084 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.90 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.952/33.710/33.872/0.056 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.92 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.972/33.779/33.846/0.055 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.75 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.902/33.690/33.797/0.062 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.14 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.09 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.85 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.137/33.757/33.936/0.100 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.10 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.09 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=34.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.85 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.971/33.767/34.002/0.230 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=34.18 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.76 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.182/33.761/33.897/0.090 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=34.00 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.051/33.829/33.943/0.057 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.01 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.96 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.044/33.808/33.913/0.070 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=40.27 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=40.36 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=40.35 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=40.51 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=40.40 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=40.55 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=40.41 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=40.37 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=40.39 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=40.36 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9324ms
+rtt max/min/avg/mdev = 40.548/40.268/40.396/0.055 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.80 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.045/33.762/33.853/0.090 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.01 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.10 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.88 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.696/33.791/34.035/0.150 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.23 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.16 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.76 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9274ms
+rtt max/min/avg/mdev = 34.878/33.756/34.021/0.241 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.83 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.932/33.718/33.841/0.049 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.87 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.977/33.738/33.859/0.062 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.93 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.969/33.749/33.830/0.071 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.11 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.88 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.109/33.757/33.899/0.071 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.07 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.90 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.066/33.812/33.936/0.063 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.20 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.06 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.85 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.202/33.692/33.866/0.142 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.09 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=34.03 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.091/33.831/33.958/0.080 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.80 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.984/33.708/33.830/0.060 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.11 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.06 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=34.02 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.107/33.760/33.947/0.078 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.01 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.90 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.039/33.753/33.895/0.086 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.15 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.77 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.149/33.768/33.875/0.090 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.06 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.82 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.056/33.783/33.913/0.060 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.92 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.957/33.698/33.819/0.073 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.19 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.03 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.78 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.186/33.774/33.918/0.103 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.17 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.96 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.169/33.730/33.897/0.100 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.80 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.916/33.743/33.807/0.044 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.89 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.954/33.726/33.816/0.065 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.08 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.97 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.080/33.746/33.869/0.087 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.03 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.68 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.77 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.038/33.684/33.848/0.084 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.95 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.038/33.736/33.894/0.083 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.68 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.97 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.975/33.679/33.844/0.099 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.67 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.72 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.922/33.672/33.806/0.083 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.82 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.039/33.763/33.852/0.061 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.83 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.992/33.693/33.837/0.083 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.68 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.971/33.683/33.839/0.082 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.66 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=34.01 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.72 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.705/33.665/33.917/0.177 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.64 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.69 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.910/33.639/33.784/0.080 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.08 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.65 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.65 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.64 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 34.084/33.643/33.775/0.104 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.15 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.65 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.149/33.654/33.851/0.110 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=55.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=73.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=109.40 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=39.44 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=50.35 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=38.31 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9436ms
+rtt max/min/avg/mdev = 109.401/33.765/50.271/17.684 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.85 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.021/33.766/33.854/0.065 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.68 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.38 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.71 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 34.383/33.683/33.807/0.117 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.61 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.93 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.964/33.607/33.796/0.097 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.83 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.905/33.719/33.798/0.060 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.03 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.81 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.027/33.730/33.866/0.082 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.94 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.973/33.697/33.820/0.073 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.63 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.050/33.632/33.825/0.096 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.67 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.68 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.003/33.673/33.845/0.100 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.67 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=34.01 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.91 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.051/33.666/33.852/0.105 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.67 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.997/33.673/33.829/0.081 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.11 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.14 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.88 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.140/33.734/33.938/0.103 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.96 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.005/33.798/33.911/0.053 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.98 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.040/33.758/33.908/0.074 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.09 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.21 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.83 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.205/33.774/33.927/0.096 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.06 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.08 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.93 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.084/33.777/33.933/0.078 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.08 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.06 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.08 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.10 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.92 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.100/33.804/34.001/0.072 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=34.10 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.104/33.816/33.947/0.079 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.03 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=34.16 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.99 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.164/33.816/33.950/0.088 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.10 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.74 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.096/33.736/33.865/0.089 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.10 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.96 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.096/33.764/33.919/0.083 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=34.07 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.97 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.067/33.712/33.895/0.064 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.19 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=34.57 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=34.08 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.570/33.723/33.962/0.189 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.17 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.11 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.83 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.171/33.732/33.904/0.132 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.96 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.988/33.743/33.887/0.056 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=34.10 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.104/33.721/33.834/0.090 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.09 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.99 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.94 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=34.03 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.089/33.778/33.928/0.080 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.03 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.94 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.029/33.783/33.879/0.063 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.00 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.85 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.07 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.93 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.91 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.065/33.774/33.933/0.070 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.08 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.12 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.79 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=34.26 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=34.01 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.93 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.262/33.794/33.991/0.106 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.77 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.83 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.84 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.90 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.977/33.754/33.847/0.054 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.92 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.80 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.71 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.70 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.75 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.99 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.991/33.698/33.796/0.081 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.98 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.87 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.04 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.89 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.73 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.94 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.044/33.725/33.874/0.080 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=34.02 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.97 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.95 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.86 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.76 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.90 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.77 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.017/33.756/33.870/0.072 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.19 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=34.11 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.82 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.81 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.74 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=33.91 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.76 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.195/33.737/33.889/0.115 ms
+ping to 66.99.43.226 (66.99.43.226)
+56 bytes from 66.99.43.226 (66.99.43.226): seq=1 ttl=255 time=34.22 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=2 ttl=255 time=33.69 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=3 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=4 ttl=255 time=34.01 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=5 ttl=255 time=33.72 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=6 ttl=255 time=33.78 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=7 ttl=255 time=33.88 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=8 ttl=255 time=33.96 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=9 ttl=255 time=34.05 ms
+56 bytes from 66.99.43.226 (66.99.43.226): seq=10 ttl=255 time=33.77 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.220/33.688/33.896/0.131 ms
