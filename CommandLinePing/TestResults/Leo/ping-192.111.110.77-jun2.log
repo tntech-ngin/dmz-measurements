@@ -1,0 +1,1440 @@
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.69 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.047/33.686/33.847/0.116 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.71 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.14 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.135/33.714/33.881/0.075 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.09 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.69 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.088/33.693/33.878/0.080 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.17 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.21 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.82 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.210/33.772/33.964/0.115 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.20 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.201/33.854/33.970/0.103 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.87 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.034/33.811/33.906/0.067 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.16 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.12 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.81 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.159/33.747/33.892/0.136 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.85 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.015/33.792/33.891/0.070 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.68 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.78 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.012/33.680/33.831/0.066 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.74 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.982/33.717/33.806/0.064 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.08 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.08 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.87 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.081/33.786/33.947/0.081 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.12 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.15 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.89 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.153/33.751/33.938/0.099 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=36.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=37.66 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.87 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9275ms
+rtt max/min/avg/mdev = 37.661/33.846/34.565/1.053 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.73 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.983/33.724/33.846/0.077 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.89 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.971/33.716/33.872/0.069 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.71 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.82 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.943/33.707/33.825/0.068 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.70 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.68 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.996/33.682/33.800/0.053 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.69 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=35.13 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.81 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 35.132/33.688/33.937/0.239 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.71 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.970/33.708/33.824/0.063 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.71 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.960/33.708/33.839/0.063 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.68 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.17 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.66 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.05 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.173/33.664/33.894/0.148 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.71 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.90 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.952/33.712/33.838/0.048 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.70 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.74 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.903/33.699/33.809/0.053 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.67 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.26 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.05 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.257/33.669/33.938/0.103 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.12 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.95 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.116/33.779/33.901/0.088 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.08 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.081/33.750/33.915/0.096 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.74 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.024/33.742/33.865/0.057 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=40.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=40.57 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=40.52 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=40.65 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=40.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=40.66 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=40.50 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=40.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=40.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=40.89 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9326ms
+rtt max/min/avg/mdev = 40.887/40.501/40.689/0.108 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.10 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.097/33.765/33.887/0.080 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.16 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.158/33.798/33.941/0.110 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.76 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.025/33.754/33.860/0.089 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.01 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.048/33.786/33.904/0.080 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.064/33.759/33.936/0.080 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.14 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.95 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.138/33.807/33.949/0.085 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.95 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.023/33.732/33.899/0.075 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.02 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.071/33.764/33.913/0.111 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=35.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.13 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.08 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9274ms
+rtt max/min/avg/mdev = 35.007/33.861/34.115/0.182 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.13 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.98 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.131/33.853/33.970/0.068 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.97 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.070/33.794/33.922/0.103 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.82 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.032/33.819/33.908/0.065 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.81 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.112/33.749/33.876/0.099 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=35.61 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.11 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9274ms
+rtt max/min/avg/mdev = 35.605/33.809/34.116/0.298 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.13 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.93 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.132/33.723/33.901/0.100 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.12 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.93 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.115/33.772/33.901/0.079 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.97 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.972/33.736/33.883/0.064 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.72 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.971/33.718/33.865/0.061 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.96 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.011/33.808/33.911/0.072 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.13 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.131/33.742/33.904/0.100 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.69 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.09 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.71 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.093/33.687/33.869/0.098 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.011/33.768/33.881/0.055 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.92 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.025/33.755/33.887/0.074 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.84 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.956/33.730/33.841/0.050 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.99 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.064/33.745/33.923/0.085 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.85 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.019/33.782/33.892/0.064 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.77 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.107/33.748/33.862/0.090 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.31 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.80 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.309/33.736/33.885/0.105 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.68 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.70 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.029/33.675/33.821/0.082 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.80 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.040/33.744/33.873/0.086 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.70 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.64 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.75 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.052/33.635/33.826/0.088 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.02 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.020/33.749/33.854/0.048 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=36.35 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=35.36 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=48.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=47.18 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=45.46 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=48.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=36.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=37.84 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9334ms
+rtt max/min/avg/mdev = 48.801/33.858/40.282/5.666 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.70 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.73 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 34.030/33.705/33.795/0.067 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.70 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.46 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.75 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.462/33.703/33.895/0.144 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.70 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.71 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 33.940/33.697/33.810/0.078 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=38.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.77 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 38.111/33.729/34.223/0.778 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.78 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.111/33.758/33.866/0.087 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.70 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.69 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.78 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.037/33.688/33.822/0.091 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.68 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.87 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.000/33.683/33.843/0.093 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.79 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.984/33.738/33.818/0.053 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.70 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 34.055/33.704/33.817/0.081 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.71 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.020/33.710/33.847/0.094 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.10 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.10 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.87 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.101/33.778/33.910/0.085 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.08 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.00 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.078/33.758/33.950/0.100 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.25 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.10 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.92 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9274ms
+rtt max/min/avg/mdev = 34.815/33.759/34.048/0.210 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.80 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.056/33.733/33.893/0.086 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.81 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 33.972/33.807/33.857/0.043 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.13 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.08 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.12 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.12 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.73 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.131/33.732/34.000/0.114 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.02 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.114/33.849/33.964/0.059 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.89 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.049/33.765/33.903/0.071 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.08 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.99 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.72 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.96 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.106/33.721/33.920/0.101 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.09 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.89 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.093/33.809/33.945/0.090 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.14 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.71 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.83 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.137/33.707/33.886/0.107 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.10 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.81 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.104/33.789/33.907/0.071 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.46 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.459/33.785/33.946/0.133 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.75 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.036/33.749/33.880/0.092 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.12 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.33 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.01 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.333/33.776/34.009/0.105 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.74 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.020/33.741/33.858/0.086 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.94 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.11 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.98 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.07 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.86 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.109/33.860/33.960/0.075 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.80 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.89 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.08 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.083/33.792/33.909/0.090 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.87 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.08 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.18 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.24 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.14 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.242/33.808/34.023/0.116 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.05 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.92 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.79 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.90 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9273ms
+rtt max/min/avg/mdev = 34.053/33.775/33.912/0.082 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.04 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.91 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.00 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.96 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.043/33.753/33.895/0.103 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.06 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.74 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.73 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.77 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.88 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.75 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.78 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9271ms
+rtt max/min/avg/mdev = 34.060/33.725/33.805/0.067 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=34.03 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.95 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.86 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.79 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.032/33.758/33.873/0.075 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.82 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=33.84 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.78 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.97 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=33.85 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.81 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=33.93 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=34.06 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.063/33.779/33.884/0.076 ms
+ping to 192.111.110.77 (192.111.110.77)
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=1 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=2 ttl=255 time=33.90 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=3 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=4 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=5 ttl=255 time=33.96 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=6 ttl=255 time=33.83 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=7 ttl=255 time=34.01 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=8 ttl=255 time=33.76 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=9 ttl=255 time=34.02 ms
+56 bytes from vuperf2.it.vanderbilt.edu (192.111.110.77): seq=10 ttl=255 time=33.91 ms
+
+---Ping statistics---
+10 packets transmitted, 10 received, 0% packet loss, time 9272ms
+rtt max/min/avg/mdev = 34.025/33.762/33.914/0.073 ms
