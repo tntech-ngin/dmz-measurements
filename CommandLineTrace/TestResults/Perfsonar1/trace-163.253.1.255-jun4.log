@@ -1,0 +1,1425 @@
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.163 ms
+ 2  149.149.251.249 (149.149.251.249)  0.413 ms
+ 3  149.149.248.1 (149.149.248.1)  3.046 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.649 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.718 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.070 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  23.046 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.643 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.627 ms
+10  198.71.46.207 (198.71.46.207)  14.564 ms
+11  206.166.9.49 (206.166.9.49)  15.321 ms
+12  206.166.35.25 (206.166.35.25)  15.581 ms
+13  206.166.35.13 (206.166.35.13)  15.646 ms
+14  66.99.43.226 (66.99.43.226)  14.684 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.154 ms
+ 2  149.149.251.249 (149.149.251.249)  0.338 ms
+ 3  149.149.248.1 (149.149.248.1)  3.076 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.737 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.578 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.174 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.366 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.153 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.320 ms
+10  198.71.46.207 (198.71.46.207)  14.642 ms
+11  206.166.9.49 (206.166.9.49)  15.300 ms
+12  206.166.35.25 (206.166.35.25)  15.649 ms
+13  206.166.35.13 (206.166.35.13)  15.590 ms
+14  66.99.43.226 (66.99.43.226)  14.742 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.180 ms
+ 2  149.149.251.249 (149.149.251.249)  0.333 ms
+ 3  149.149.248.1 (149.149.248.1)  3.017 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.007 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.699 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.967 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  23.651 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.573 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  20.901 ms
+10  198.71.46.207 (198.71.46.207)  14.660 ms
+11  206.166.9.49 (206.166.9.49)  15.141 ms
+12  206.166.35.25 (206.166.35.25)  15.685 ms
+13  206.166.35.13 (206.166.35.13)  15.605 ms
+14  66.99.43.226 (66.99.43.226)  14.712 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.165 ms
+ 2  149.149.251.249 (149.149.251.249)  0.604 ms
+ 3  149.149.248.1 (149.149.248.1)  3.054 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  9.741 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.593 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.079 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.035 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.358 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  20.770 ms
+10  198.71.46.207 (198.71.46.207)  14.644 ms
+11  206.166.9.49 (206.166.9.49)  15.557 ms
+12  206.166.35.25 (206.166.35.25)  15.536 ms
+13  206.166.35.13 (206.166.35.13)  15.747 ms
+14  66.99.43.226 (66.99.43.226)  14.754 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.192 ms
+ 2  149.149.251.249 (149.149.251.249)  0.562 ms
+ 3  149.149.248.1 (149.149.248.1)  3.185 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  9.675 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.001 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.381 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  21.991 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.311 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.586 ms
+10  198.71.46.207 (198.71.46.207)  14.585 ms
+11  206.166.9.49 (206.166.9.49)  15.260 ms
+12  206.166.35.25 (206.166.35.25)  15.595 ms
+13  206.166.35.13 (206.166.35.13)  15.541 ms
+14  66.99.43.226 (66.99.43.226)  14.742 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.197 ms
+ 2  149.149.251.249 (149.149.251.249)  0.501 ms
+ 3  149.149.248.1 (149.149.248.1)  3.128 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.990 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.343 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.019 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.775 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.678 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.803 ms
+10  198.71.46.207 (198.71.46.207)  14.685 ms
+11  206.166.9.49 (206.166.9.49)  15.454 ms
+12  206.166.35.25 (206.166.35.25)  15.521 ms
+13  206.166.35.13 (206.166.35.13)  15.673 ms
+14  66.99.43.226 (66.99.43.226)  14.761 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.163 ms
+ 2  149.149.251.249 (149.149.251.249)  0.295 ms
+ 3  149.149.248.1 (149.149.248.1)  3.050 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.150 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.732 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.015 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.939 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.891 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.855 ms
+10  198.71.46.207 (198.71.46.207)  14.606 ms
+11  206.166.9.49 (206.166.9.49)  15.566 ms
+12  206.166.35.25 (206.166.35.25)  15.440 ms
+13  206.166.35.13 (206.166.35.13)  15.687 ms
+14  66.99.43.226 (66.99.43.226)  14.727 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.194 ms
+ 2  149.149.251.249 (149.149.251.249)  0.317 ms
+ 3  149.149.248.1 (149.149.248.1)  3.066 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.679 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.551 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.340 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  23.070 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.777 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.824 ms
+10  198.71.46.207 (198.71.46.207)  14.647 ms
+11  206.166.9.49 (206.166.9.49)  15.235 ms
+12  206.166.35.25 (206.166.35.25)  15.490 ms
+13  206.166.35.13 (206.166.35.13)  15.444 ms
+14  66.99.43.226 (66.99.43.226)  14.715 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.194 ms
+ 2  149.149.251.249 (149.149.251.249)  0.312 ms
+ 3  149.149.248.1 (149.149.248.1)  3.152 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.054 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.231 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.865 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.517 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.340 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.118 ms
+10  198.71.46.207 (198.71.46.207)  14.599 ms
+11  206.166.9.49 (206.166.9.49)  15.426 ms
+12  206.166.35.25 (206.166.35.25)  15.405 ms
+13  206.166.35.13 (206.166.35.13)  15.545 ms
+14  66.99.43.226 (66.99.43.226)  14.695 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.194 ms
+ 2  149.149.251.249 (149.149.251.249)  0.612 ms
+ 3  149.149.248.1 (149.149.248.1)  3.161 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.623 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.533 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.768 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.239 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  21.803 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.866 ms
+10  198.71.46.207 (198.71.46.207)  14.589 ms
+11  206.166.9.49 (206.166.9.49)  15.100 ms
+12  206.166.35.25 (206.166.35.25)  15.553 ms
+13  206.166.35.13 (206.166.35.13)  15.678 ms
+14  66.99.43.226 (66.99.43.226)  14.695 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.193 ms
+ 2  149.149.251.249 (149.149.251.249)  0.492 ms
+ 3  149.149.248.1 (149.149.248.1)  3.162 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.029 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.178 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  24.301 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.376 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.618 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.100 ms
+10  198.71.46.207 (198.71.46.207)  14.742 ms
+11  206.166.9.49 (206.166.9.49)  15.490 ms
+12  206.166.35.25 (206.166.35.25)  15.543 ms
+13  206.166.35.13 (206.166.35.13)  15.529 ms
+14  66.99.43.226 (66.99.43.226)  14.772 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.184 ms
+ 2  149.149.251.249 (149.149.251.249)  0.390 ms
+ 3  149.149.248.1 (149.149.248.1)  3.136 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.784 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.564 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.821 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  21.634 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.826 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.973 ms
+10  198.71.46.207 (198.71.46.207)  14.710 ms
+11  206.166.9.49 (206.166.9.49)  15.256 ms
+12  206.166.35.25 (206.166.35.25)  15.558 ms
+13  206.166.35.13 (206.166.35.13)  15.477 ms
+14  66.99.43.226 (66.99.43.226)  14.748 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.199 ms
+ 2  149.149.251.249 (149.149.251.249)  0.363 ms
+ 3  149.149.248.1 (149.149.248.1)  3.110 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.109 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.482 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.094 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  24.360 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.265 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.194 ms
+10  198.71.46.207 (198.71.46.207)  14.655 ms
+11  206.166.9.49 (206.166.9.49)  15.318 ms
+12  206.166.35.25 (206.166.35.25)  15.562 ms
+13  206.166.35.13 (206.166.35.13)  15.480 ms
+14  66.99.43.226 (66.99.43.226)  14.761 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.186 ms
+ 2  149.149.251.249 (149.149.251.249)  0.401 ms
+ 3  149.149.248.1 (149.149.248.1)  3.135 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.231 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.728 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.173 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.692 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.616 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.790 ms
+10  198.71.46.207 (198.71.46.207)  14.601 ms
+11  206.166.9.49 (206.166.9.49)  15.338 ms
+12  206.166.35.25 (206.166.35.25)  15.671 ms
+13  206.166.35.13 (206.166.35.13)  15.631 ms
+14  66.99.43.226 (66.99.43.226)  14.701 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.192 ms
+ 2  149.149.251.249 (149.149.251.249)  0.430 ms
+ 3  149.149.248.1 (149.149.248.1)  3.079 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.478 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.919 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.870 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.083 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.716 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.559 ms
+10  198.71.46.207 (198.71.46.207)  14.651 ms
+11  206.166.9.49 (206.166.9.49)  15.188 ms
+12  206.166.35.25 (206.166.35.25)  15.618 ms
+13  206.166.35.13 (206.166.35.13)  15.764 ms
+14  66.99.43.226 (66.99.43.226)  14.684 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.194 ms
+ 2  149.149.251.249 (149.149.251.249)  0.421 ms
+ 3  149.149.248.1 (149.149.248.1)  3.111 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.514 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.954 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.485 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  23.266 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.304 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.778 ms
+10  198.71.46.207 (198.71.46.207)  14.581 ms
+11  206.166.9.49 (206.166.9.49)  15.269 ms
+12  206.166.35.25 (206.166.35.25)  15.444 ms
+13  206.166.35.13 (206.166.35.13)  15.371 ms
+14  66.99.43.226 (66.99.43.226)  14.681 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.207 ms
+ 2  149.149.251.249 (149.149.251.249)  0.531 ms
+ 3  149.149.248.1 (149.149.248.1)  3.089 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.167 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  21.107 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.438 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.509 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.132 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.468 ms
+10  198.71.46.207 (198.71.46.207)  14.591 ms
+11  206.166.9.49 (206.166.9.49)  15.295 ms
+12  206.166.35.25 (206.166.35.25)  15.749 ms
+13  206.166.35.13 (206.166.35.13)  15.624 ms
+14  66.99.43.226 (66.99.43.226)  14.714 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.186 ms
+ 2  149.149.251.249 (149.149.251.249)  0.255 ms
+ 3  149.149.248.1 (149.149.248.1)  3.020 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.492 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.047 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.984 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.010 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  21.852 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.495 ms
+10  198.71.46.207 (198.71.46.207)  14.639 ms
+11  206.166.9.49 (206.166.9.49)  15.370 ms
+12  206.166.35.25 (206.166.35.25)  15.620 ms
+13  206.166.35.13 (206.166.35.13)  15.540 ms
+14  66.99.43.226 (66.99.43.226)  14.670 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.150 ms
+ 2  149.149.251.249 (149.149.251.249)  0.514 ms
+ 3  149.149.248.1 (149.149.248.1)  3.019 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.718 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.169 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.045 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  21.428 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  21.597 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.239 ms
+10  198.71.46.207 (198.71.46.207)  14.551 ms
+11  206.166.9.49 (206.166.9.49)  15.222 ms
+12  206.166.35.25 (206.166.35.25)  15.504 ms
+13  206.166.35.13 (206.166.35.13)  15.540 ms
+14  66.99.43.226 (66.99.43.226)  14.772 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.189 ms
+ 2  149.149.251.249 (149.149.251.249)  0.335 ms
+ 3  149.149.248.1 (149.149.248.1)  3.131 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  9.887 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.586 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.523 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  24.361 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.913 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.722 ms
+10  198.71.46.207 (198.71.46.207)  14.608 ms
+11  206.166.9.49 (206.166.9.49)  15.356 ms
+12  206.166.35.25 (206.166.35.25)  15.503 ms
+13  206.166.35.13 (206.166.35.13)  15.363 ms
+14  66.99.43.226 (66.99.43.226)  14.700 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.165 ms
+ 2  149.149.251.249 (149.149.251.249)  0.510 ms
+ 3  149.149.248.1 (149.149.248.1)  3.174 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.854 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.498 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.907 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.180 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.686 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.671 ms
+10  198.71.46.207 (198.71.46.207)  14.578 ms
+11  206.166.9.49 (206.166.9.49)  15.246 ms
+12  206.166.35.25 (206.166.35.25)  15.626 ms
+13  206.166.35.13 (206.166.35.13)  15.549 ms
+14  66.99.43.226 (66.99.43.226)  14.665 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.165 ms
+ 2  149.149.251.249 (149.149.251.249)  0.311 ms
+ 3  149.149.248.1 (149.149.248.1)  3.104 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.437 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.888 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.323 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.009 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.935 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.977 ms
+10  198.71.46.207 (198.71.46.207)  14.604 ms
+11  206.166.9.49 (206.166.9.49)  15.433 ms
+12  206.166.35.25 (206.166.35.25)  15.554 ms
+13  206.166.35.13 (206.166.35.13)  15.509 ms
+14  66.99.43.226 (66.99.43.226)  14.696 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.135 ms
+ 2  149.149.251.249 (149.149.251.249)  0.410 ms
+ 3  149.149.248.1 (149.149.248.1)  3.104 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  9.699 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  24.134 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.298 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  23.550 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.044 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.858 ms
+10  198.71.46.207 (198.71.46.207)  14.646 ms
+11  206.166.9.49 (206.166.9.49)  15.166 ms
+12  206.166.35.25 (206.166.35.25)  15.390 ms
+13  206.166.35.13 (206.166.35.13)  15.443 ms
+14  66.99.43.226 (66.99.43.226)  14.717 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.144 ms
+ 2  149.149.251.249 (149.149.251.249)  0.386 ms
+ 3  149.149.248.1 (149.149.248.1)  3.005 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.563 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.557 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.128 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.738 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.339 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.572 ms
+10  198.71.46.207 (198.71.46.207)  14.613 ms
+11  206.166.9.49 (206.166.9.49)  15.381 ms
+12  206.166.35.25 (206.166.35.25)  15.383 ms
+13  206.166.35.13 (206.166.35.13)  15.509 ms
+14  66.99.43.226 (66.99.43.226)  14.733 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.145 ms
+ 2  149.149.251.249 (149.149.251.249)  0.472 ms
+ 3  149.149.248.1 (149.149.248.1)  3.040 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.994 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.394 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.255 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.854 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.737 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.046 ms
+10  198.71.46.207 (198.71.46.207)  14.592 ms
+11  206.166.9.49 (206.166.9.49)  15.433 ms
+12  206.166.35.25 (206.166.35.25)  15.511 ms
+13  206.166.35.13 (206.166.35.13)  15.484 ms
+14  66.99.43.226 (66.99.43.226)  14.651 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.167 ms
+ 2  149.149.251.249 (149.149.251.249)  0.289 ms
+ 3  149.149.248.1 (149.149.248.1)  3.078 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.289 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.304 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.633 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  21.746 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.781 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.286 ms
+10  198.71.46.207 (198.71.46.207)  14.737 ms
+11  206.166.9.49 (206.166.9.49)  15.227 ms
+12  206.166.35.25 (206.166.35.25)  15.440 ms
+13  206.166.35.13 (206.166.35.13)  15.471 ms
+14  66.99.43.226 (66.99.43.226)  14.754 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.194 ms
+ 2  149.149.251.249 (149.149.251.249)  0.377 ms
+ 3  149.149.248.1 (149.149.248.1)  3.103 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.254 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.971 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.350 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  21.158 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  21.949 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  24.308 ms
+10  198.71.46.207 (198.71.46.207)  14.542 ms
+11  206.166.9.49 (206.166.9.49)  15.439 ms
+12  206.166.35.25 (206.166.35.25)  15.581 ms
+13  206.166.35.13 (206.166.35.13)  15.439 ms
+14  66.99.43.226 (66.99.43.226)  14.771 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.188 ms
+ 2  149.149.251.249 (149.149.251.249)  0.345 ms
+ 3  149.149.248.1 (149.149.248.1)  3.083 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.257 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.136 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.386 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  23.003 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.941 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.159 ms
+10  198.71.46.207 (198.71.46.207)  14.635 ms
+11  206.166.9.49 (206.166.9.49)  15.065 ms
+12  206.166.35.25 (206.166.35.25)  15.539 ms
+13  206.166.35.13 (206.166.35.13)  15.539 ms
+14  66.99.43.226 (66.99.43.226)  14.747 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.190 ms
+ 2  149.149.251.249 (149.149.251.249)  0.535 ms
+ 3  149.149.248.1 (149.149.248.1)  3.077 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.118 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.553 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.989 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.170 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.738 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.547 ms
+10  198.71.46.207 (198.71.46.207)  14.580 ms
+11  206.166.9.49 (206.166.9.49)  15.143 ms
+12  206.166.35.25 (206.166.35.25)  15.400 ms
+13  206.166.35.13 (206.166.35.13)  15.448 ms
+14  66.99.43.226 (66.99.43.226)  14.717 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.187 ms
+ 2  149.149.251.249 (149.149.251.249)  0.364 ms
+ 3  149.149.248.1 (149.149.248.1)  3.192 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.422 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  49.685 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.257 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  23.756 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.724 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.498 ms
+10  198.71.46.207 (198.71.46.207)  14.666 ms
+11  206.166.9.49 (206.166.9.49)  15.255 ms
+12  206.166.35.25 (206.166.35.25)  15.435 ms
+13  206.166.35.13 (206.166.35.13)  15.506 ms
+14  66.99.43.226 (66.99.43.226)  14.671 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.149 ms
+ 2  149.149.251.249 (149.149.251.249)  0.252 ms
+ 3  149.149.248.1 (149.149.248.1)  3.027 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.443 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  21.504 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.316 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.086 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.431 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.916 ms
+10  198.71.46.207 (198.71.46.207)  14.610 ms
+11  206.166.9.49 (206.166.9.49)  15.227 ms
+12  206.166.35.25 (206.166.35.25)  15.480 ms
+13  206.166.35.13 (206.166.35.13)  15.440 ms
+14  66.99.43.226 (66.99.43.226)  14.694 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.191 ms
+ 2  149.149.251.249 (149.149.251.249)  0.392 ms
+ 3  149.149.248.1 (149.149.248.1)  3.117 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.596 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.638 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.947 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.266 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.099 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.507 ms
+10  198.71.46.207 (198.71.46.207)  14.570 ms
+11  206.166.9.49 (206.166.9.49)  15.032 ms
+12  206.166.35.25 (206.166.35.25)  15.431 ms
+13  206.166.35.13 (206.166.35.13)  15.516 ms
+14  66.99.43.226 (66.99.43.226)  14.738 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.218 ms
+ 2  149.149.251.249 (149.149.251.249)  0.511 ms
+ 3  149.149.248.1 (149.149.248.1)  3.088 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.980 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.675 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.197 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.264 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.187 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.507 ms
+10  198.71.46.207 (198.71.46.207)  14.606 ms
+11  206.166.9.49 (206.166.9.49)  15.190 ms
+12  206.166.35.25 (206.166.35.25)  15.491 ms
+13  206.166.35.13 (206.166.35.13)  15.560 ms
+14  66.99.43.226 (66.99.43.226)  14.729 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.201 ms
+ 2  149.149.251.249 (149.149.251.249)  0.404 ms
+ 3  149.149.248.1 (149.149.248.1)  3.063 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.481 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.043 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.683 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  23.376 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.822 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.706 ms
+10  198.71.46.207 (198.71.46.207)  14.614 ms
+11  206.166.9.49 (206.166.9.49)  15.266 ms
+12  206.166.35.25 (206.166.35.25)  15.531 ms
+13  206.166.35.13 (206.166.35.13)  15.468 ms
+14  66.99.43.226 (66.99.43.226)  14.715 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.193 ms
+ 2  149.149.251.249 (149.149.251.249)  0.512 ms
+ 3  149.149.248.1 (149.149.248.1)  3.170 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.098 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.474 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.558 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.177 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.595 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.940 ms
+10  198.71.46.207 (198.71.46.207)  14.559 ms
+11  206.166.9.49 (206.166.9.49)  15.114 ms
+12  206.166.35.25 (206.166.35.25)  15.632 ms
+13  206.166.35.13 (206.166.35.13)  15.497 ms
+14  66.99.43.226 (66.99.43.226)  14.720 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.199 ms
+ 2  149.149.251.249 (149.149.251.249)  10.647 ms
+ 3  149.149.248.1 (149.149.248.1)  3.073 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.602 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.775 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.387 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.596 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.837 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  24.228 ms
+10  198.71.46.207 (198.71.46.207)  14.641 ms
+11  206.166.9.49 (206.166.9.49)  15.137 ms
+12  206.166.35.25 (206.166.35.25)  15.434 ms
+13  206.166.35.13 (206.166.35.13)  15.374 ms
+14  66.99.43.226 (66.99.43.226)  14.706 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.186 ms
+ 2  149.149.251.249 (149.149.251.249)  0.308 ms
+ 3  149.149.248.1 (149.149.248.1)  3.020 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.495 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.409 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.806 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.532 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.126 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.534 ms
+10  198.71.46.207 (198.71.46.207)  14.586 ms
+11  206.166.9.49 (206.166.9.49)  15.267 ms
+12  206.166.35.25 (206.166.35.25)  15.575 ms
+13  206.166.35.13 (206.166.35.13)  15.484 ms
+14  66.99.43.226 (66.99.43.226)  14.724 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.188 ms
+ 2  149.149.251.249 (149.149.251.249)  0.368 ms
+ 3  149.149.248.1 (149.149.248.1)  3.101 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.454 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.241 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.289 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  21.498 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.511 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.139 ms
+10  198.71.46.207 (198.71.46.207)  14.573 ms
+11  206.166.9.49 (206.166.9.49)  15.394 ms
+12  206.166.35.25 (206.166.35.25)  15.562 ms
+13  206.166.35.13 (206.166.35.13)  15.520 ms
+14  66.99.43.226 (66.99.43.226)  14.681 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.191 ms
+ 2  149.149.251.249 (149.149.251.249)  0.357 ms
+ 3  149.149.248.1 (149.149.248.1)  3.054 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.714 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.911 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.816 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.744 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.698 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.987 ms
+10  198.71.46.207 (198.71.46.207)  14.630 ms
+11  206.166.9.49 (206.166.9.49)  15.576 ms
+12  206.166.35.25 (206.166.35.25)  15.557 ms
+13  206.166.35.13 (206.166.35.13)  15.459 ms
+14  66.99.43.226 (66.99.43.226)  14.676 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.191 ms
+ 2  149.149.251.249 (149.149.251.249)  2.964 ms
+ 3  149.149.248.1 (149.149.248.1)  3.003 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.119 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.090 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.780 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  21.556 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.192 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.645 ms
+10  198.71.46.207 (198.71.46.207)  14.576 ms
+11  206.166.9.49 (206.166.9.49)  15.154 ms
+12  206.166.35.25 (206.166.35.25)  15.486 ms
+13  206.166.35.13 (206.166.35.13)  15.441 ms
+14  66.99.43.226 (66.99.43.226)  14.729 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.195 ms
+ 2  149.149.251.249 (149.149.251.249)  0.664 ms
+ 3  149.149.248.1 (149.149.248.1)  3.051 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.907 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.598 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.326 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.956 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.256 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.903 ms
+10  198.71.46.207 (198.71.46.207)  14.634 ms
+11  206.166.9.49 (206.166.9.49)  15.253 ms
+12  206.166.35.25 (206.166.35.25)  15.469 ms
+13  206.166.35.13 (206.166.35.13)  15.397 ms
+14  66.99.43.226 (66.99.43.226)  14.732 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.187 ms
+ 2  149.149.251.249 (149.149.251.249)  0.561 ms
+ 3  149.149.248.1 (149.149.248.1)  3.132 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.375 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.249 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.463 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.343 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.671 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.349 ms
+10  198.71.46.207 (198.71.46.207)  14.625 ms
+11  206.166.9.49 (206.166.9.49)  15.236 ms
+12  206.166.35.25 (206.166.35.25)  15.516 ms
+13  206.166.35.13 (206.166.35.13)  15.697 ms
+14  66.99.43.226 (66.99.43.226)  14.686 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.135 ms
+ 2  149.149.251.249 (149.149.251.249)  0.259 ms
+ 3  149.149.248.1 (149.149.248.1)  3.068 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.183 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.630 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.601 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.977 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.033 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.168 ms
+10  198.71.46.207 (198.71.46.207)  14.672 ms
+11  206.166.9.49 (206.166.9.49)  15.270 ms
+12  206.166.35.25 (206.166.35.25)  15.501 ms
+13  206.166.35.13 (206.166.35.13)  15.428 ms
+14  66.99.43.226 (66.99.43.226)  14.689 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.196 ms
+ 2  149.149.251.249 (149.149.251.249)  54.895 ms
+ 3  149.149.248.1 (149.149.248.1)  2.988 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.195 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.266 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  20.779 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  24.213 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.691 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.919 ms
+10  198.71.46.207 (198.71.46.207)  14.587 ms
+11  206.166.9.49 (206.166.9.49)  15.215 ms
+12  206.166.35.25 (206.166.35.25)  15.643 ms
+13  206.166.35.13 (206.166.35.13)  15.549 ms
+14  66.99.43.226 (66.99.43.226)  14.721 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.214 ms
+ 2  149.149.251.249 (149.149.251.249)  28.342 ms
+ 3  149.149.248.1 (149.149.248.1)  3.116 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.781 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.055 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.931 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.771 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.762 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.538 ms
+10  198.71.46.207 (198.71.46.207)  14.656 ms
+11  206.166.9.49 (206.166.9.49)  15.041 ms
+12  206.166.35.25 (206.166.35.25)  15.532 ms
+13  206.166.35.13 (206.166.35.13)  15.466 ms
+14  66.99.43.226 (66.99.43.226)  14.735 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.169 ms
+ 2  149.149.251.249 (149.149.251.249)  0.383 ms
+ 3  149.149.248.1 (149.149.248.1)  3.062 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.684 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  24.097 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.244 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.626 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.741 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  20.931 ms
+10  198.71.46.207 (198.71.46.207)  14.610 ms
+11  206.166.9.49 (206.166.9.49)  15.423 ms
+12  206.166.35.25 (206.166.35.25)  15.633 ms
+13  206.166.35.13 (206.166.35.13)  15.760 ms
+14  66.99.43.226 (66.99.43.226)  14.740 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.193 ms
+ 2  149.149.251.249 (149.149.251.249)  0.482 ms
+ 3  149.149.248.1 (149.149.248.1)  3.058 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  9.444 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.685 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.662 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.826 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.468 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.380 ms
+10  198.71.46.207 (198.71.46.207)  14.616 ms
+11  206.166.9.49 (206.166.9.49)  15.231 ms
+12  206.166.35.25 (206.166.35.25)  15.689 ms
+13  206.166.35.13 (206.166.35.13)  15.637 ms
+14  66.99.43.226 (66.99.43.226)  14.720 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.171 ms
+ 2  149.149.251.249 (149.149.251.249)  0.889 ms
+ 3  149.149.248.1 (149.149.248.1)  3.102 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.208 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.326 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.154 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  21.721 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.310 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.985 ms
+10  198.71.46.207 (198.71.46.207)  14.636 ms
+11  206.166.9.49 (206.166.9.49)  15.420 ms
+12  206.166.35.25 (206.166.35.25)  15.512 ms
+13  206.166.35.13 (206.166.35.13)  15.515 ms
+14  66.99.43.226 (66.99.43.226)  14.738 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.223 ms
+ 2  149.149.251.249 (149.149.251.249)  0.370 ms
+ 3  149.149.248.1 (149.149.248.1)  3.124 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.522 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.601 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.380 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.682 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.574 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.666 ms
+10  198.71.46.207 (198.71.46.207)  14.594 ms
+11  206.166.9.49 (206.166.9.49)  15.252 ms
+12  206.166.35.25 (206.166.35.25)  15.621 ms
+13  206.166.35.13 (206.166.35.13)  15.672 ms
+14  66.99.43.226 (66.99.43.226)  14.702 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.166 ms
+ 2  149.149.251.249 (149.149.251.249)  0.579 ms
+ 3  149.149.248.1 (149.149.248.1)  3.084 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.572 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.489 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.115 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.958 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.854 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.566 ms
+10  198.71.46.207 (198.71.46.207)  14.608 ms
+11  206.166.9.49 (206.166.9.49)  15.316 ms
+12  206.166.35.25 (206.166.35.25)  15.679 ms
+13  206.166.35.13 (206.166.35.13)  16.159 ms
+14  66.99.43.226 (66.99.43.226)  14.705 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.137 ms
+ 2  149.149.251.249 (149.149.251.249)  0.392 ms
+ 3  149.149.248.1 (149.149.248.1)  3.052 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.624 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.798 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.269 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.483 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.049 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.227 ms
+10  198.71.46.207 (198.71.46.207)  14.616 ms
+11  206.166.9.49 (206.166.9.49)  15.506 ms
+12  206.166.35.25 (206.166.35.25)  15.672 ms
+13  206.166.35.13 (206.166.35.13)  15.455 ms
+14  66.99.43.226 (66.99.43.226)  14.670 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.202 ms
+ 2  149.149.251.249 (149.149.251.249)  0.401 ms
+ 3  149.149.248.1 (149.149.248.1)  3.092 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.669 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.336 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.909 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.464 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.458 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.649 ms
+10  198.71.46.207 (198.71.46.207)  14.576 ms
+11  206.166.9.49 (206.166.9.49)  15.324 ms
+12  206.166.35.25 (206.166.35.25)  15.539 ms
+13  206.166.35.13 (206.166.35.13)  15.474 ms
+14  66.99.43.226 (66.99.43.226)  14.719 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.152 ms
+ 2  149.149.251.249 (149.149.251.249)  0.532 ms
+ 3  149.149.248.1 (149.149.248.1)  3.071 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.447 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.714 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.421 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.851 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.595 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.706 ms
+10  198.71.46.207 (198.71.46.207)  14.569 ms
+11  206.166.9.49 (206.166.9.49)  15.276 ms
+12  206.166.35.25 (206.166.35.25)  15.480 ms
+13  206.166.35.13 (206.166.35.13)  15.409 ms
+14  66.99.43.226 (66.99.43.226)  14.683 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.199 ms
+ 2  149.149.251.249 (149.149.251.249)  0.431 ms
+ 3  149.149.248.1 (149.149.248.1)  3.054 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  9.677 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.668 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.160 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.296 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.487 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  24.018 ms
+10  198.71.46.207 (198.71.46.207)  14.649 ms
+11  206.166.9.49 (206.166.9.49)  15.358 ms
+12  206.166.35.25 (206.166.35.25)  15.369 ms
+13  206.166.35.13 (206.166.35.13)  15.555 ms
+14  66.99.43.226 (66.99.43.226)  14.682 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.193 ms
+ 2  149.149.251.249 (149.149.251.249)  0.533 ms
+ 3  149.149.248.1 (149.149.248.1)  3.093 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.145 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.614 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.432 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.101 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.309 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.730 ms
+10  198.71.46.207 (198.71.46.207)  14.572 ms
+11  206.166.9.49 (206.166.9.49)  15.526 ms
+12  206.166.35.25 (206.166.35.25)  15.500 ms
+13  206.166.35.13 (206.166.35.13)  15.635 ms
+14  66.99.43.226 (66.99.43.226)  14.703 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.136 ms
+ 2  149.149.251.249 (149.149.251.249)  0.476 ms
+ 3  149.149.248.1 (149.149.248.1)  2.993 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.983 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.828 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.397 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  23.060 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  21.941 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.218 ms
+10  198.71.46.207 (198.71.46.207)  14.575 ms
+11  206.166.9.49 (206.166.9.49)  15.373 ms
+12  206.166.35.25 (206.166.35.25)  15.514 ms
+13  206.166.35.13 (206.166.35.13)  15.426 ms
+14  66.99.43.226 (66.99.43.226)  14.671 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.164 ms
+ 2  149.149.251.249 (149.149.251.249)  0.371 ms
+ 3  149.149.248.1 (149.149.248.1)  3.085 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.792 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.018 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.967 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.349 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.917 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.329 ms
+10  198.71.46.207 (198.71.46.207)  14.636 ms
+11  206.166.9.49 (206.166.9.49)  15.277 ms
+12  206.166.35.25 (206.166.35.25)  15.544 ms
+13  206.166.35.13 (206.166.35.13)  15.453 ms
+14  66.99.43.226 (66.99.43.226)  14.687 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.182 ms
+ 2  149.149.251.249 (149.149.251.249)  0.421 ms
+ 3  149.149.248.1 (149.149.248.1)  3.074 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.880 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.005 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.137 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  24.262 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.166 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.835 ms
+10  198.71.46.207 (198.71.46.207)  14.591 ms
+11  206.166.9.49 (206.166.9.49)  15.272 ms
+12  206.166.35.25 (206.166.35.25)  15.439 ms
+13  206.166.35.13 (206.166.35.13)  15.392 ms
+14  66.99.43.226 (66.99.43.226)  14.682 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.186 ms
+ 2  149.149.251.249 (149.149.251.249)  21.267 ms
+ 3  149.149.248.1 (149.149.248.1)  3.144 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.671 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.580 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  41.069 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  24.223 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.833 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.682 ms
+10  198.71.46.207 (198.71.46.207)  14.546 ms
+11  206.166.9.49 (206.166.9.49)  15.265 ms
+12  206.166.35.25 (206.166.35.25)  15.471 ms
+13  206.166.35.13 (206.166.35.13)  15.366 ms
+14  66.99.43.226 (66.99.43.226)  14.696 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.165 ms
+ 2  149.149.251.249 (149.149.251.249)  0.329 ms
+ 3  149.149.248.1 (149.149.248.1)  3.055 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.189 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.717 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.710 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.307 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.555 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.984 ms
+10  198.71.46.207 (198.71.46.207)  14.645 ms
+11  206.166.9.49 (206.166.9.49)  15.356 ms
+12  206.166.35.25 (206.166.35.25)  15.441 ms
+13  206.166.35.13 (206.166.35.13)  15.462 ms
+14  66.99.43.226 (66.99.43.226)  14.746 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.168 ms
+ 2  149.149.251.249 (149.149.251.249)  0.359 ms
+ 3  149.149.248.1 (149.149.248.1)  3.123 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.344 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  24.140 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.517 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  23.655 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  21.961 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.360 ms
+10  198.71.46.207 (198.71.46.207)  14.623 ms
+11  206.166.9.49 (206.166.9.49)  15.287 ms
+12  206.166.35.25 (206.166.35.25)  15.505 ms
+13  206.166.35.13 (206.166.35.13)  15.473 ms
+14  66.99.43.226 (66.99.43.226)  14.678 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.184 ms
+ 2  149.149.251.249 (149.149.251.249)  0.489 ms
+ 3  149.149.248.1 (149.149.248.1)  3.081 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.737 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.284 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.587 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.952 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.664 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.245 ms
+10  198.71.46.207 (198.71.46.207)  14.899 ms
+11  206.166.9.49 (206.166.9.49)  15.324 ms
+12  206.166.35.25 (206.166.35.25)  15.443 ms
+13  206.166.35.13 (206.166.35.13)  15.401 ms
+14  66.99.43.226 (66.99.43.226)  14.686 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.183 ms
+ 2  149.149.251.249 (149.149.251.249)  0.482 ms
+ 3  149.149.248.1 (149.149.248.1)  3.134 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.512 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  21.960 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.743 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.802 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.348 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.805 ms
+10  198.71.46.207 (198.71.46.207)  14.725 ms
+11  206.166.9.49 (206.166.9.49)  15.485 ms
+12  206.166.35.25 (206.166.35.25)  15.560 ms
+13  206.166.35.13 (206.166.35.13)  15.483 ms
+14  66.99.43.226 (66.99.43.226)  14.704 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.200 ms
+ 2  149.149.251.249 (149.149.251.249)  0.473 ms
+ 3  149.149.248.1 (149.149.248.1)  3.132 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.706 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  21.971 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.316 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  21.730 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.521 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.819 ms
+10  198.71.46.207 (198.71.46.207)  14.683 ms
+11  206.166.9.49 (206.166.9.49)  15.297 ms
+12  206.166.35.25 (206.166.35.25)  15.588 ms
+13  206.166.35.13 (206.166.35.13)  15.514 ms
+14  66.99.43.226 (66.99.43.226)  14.773 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.191 ms
+ 2  149.149.251.249 (149.149.251.249)  0.318 ms
+ 3  149.149.248.1 (149.149.248.1)  3.091 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.061 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.704 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.293 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.977 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.225 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.000 ms
+10  198.71.46.207 (198.71.46.207)  14.626 ms
+11  206.166.9.49 (206.166.9.49)  15.275 ms
+12  206.166.35.25 (206.166.35.25)  15.529 ms
+13  206.166.35.13 (206.166.35.13)  15.555 ms
+14  66.99.43.226 (66.99.43.226)  14.673 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.163 ms
+ 2  149.149.251.249 (149.149.251.249)  0.433 ms
+ 3  149.149.248.1 (149.149.248.1)  3.042 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.477 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.502 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.590 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.281 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  21.378 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.300 ms
+10  198.71.46.207 (198.71.46.207)  14.596 ms
+11  206.166.9.49 (206.166.9.49)  15.199 ms
+12  206.166.35.25 (206.166.35.25)  15.472 ms
+13  206.166.35.13 (206.166.35.13)  15.412 ms
+14  66.99.43.226 (66.99.43.226)  14.682 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.190 ms
+ 2  149.149.251.249 (149.149.251.249)  0.287 ms
+ 3  149.149.248.1 (149.149.248.1)  3.097 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.131 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.768 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.973 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  24.189 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.859 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.294 ms
+10  198.71.46.207 (198.71.46.207)  14.606 ms
+11  206.166.9.49 (206.166.9.49)  15.427 ms
+12  206.166.35.25 (206.166.35.25)  15.546 ms
+13  206.166.35.13 (206.166.35.13)  15.550 ms
+14  66.99.43.226 (66.99.43.226)  14.698 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.189 ms
+ 2  149.149.251.249 (149.149.251.249)  0.471 ms
+ 3  149.149.248.1 (149.149.248.1)  3.111 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.335 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.531 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.776 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  21.130 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.585 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.989 ms
+10  198.71.46.207 (198.71.46.207)  14.616 ms
+11  206.166.9.49 (206.166.9.49)  15.472 ms
+12  206.166.35.25 (206.166.35.25)  15.540 ms
+13  206.166.35.13 (206.166.35.13)  15.685 ms
+14  66.99.43.226 (66.99.43.226)  14.738 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.170 ms
+ 2  149.149.251.249 (149.149.251.249)  0.328 ms
+ 3  149.149.248.1 (149.149.248.1)  3.079 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.465 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.387 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.494 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.190 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.377 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.784 ms
+10  198.71.46.207 (198.71.46.207)  14.662 ms
+11  206.166.9.49 (206.166.9.49)  15.215 ms
+12  206.166.35.25 (206.166.35.25)  15.547 ms
+13  206.166.35.13 (206.166.35.13)  15.498 ms
+14  66.99.43.226 (66.99.43.226)  14.720 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.192 ms
+ 2  149.149.251.249 (149.149.251.249)  0.277 ms
+ 3  149.149.248.1 (149.149.248.1)  3.106 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.032 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.944 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.325 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.384 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  21.438 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.772 ms
+10  198.71.46.207 (198.71.46.207)  14.648 ms
+11  206.166.9.49 (206.166.9.49)  15.449 ms
+12  206.166.35.25 (206.166.35.25)  15.588 ms
+13  206.166.35.13 (206.166.35.13)  15.524 ms
+14  66.99.43.226 (66.99.43.226)  14.682 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.109 ms
+ 2  149.149.251.249 (149.149.251.249)  0.510 ms
+ 3  149.149.248.1 (149.149.248.1)  2.995 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.122 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.362 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.188 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  21.871 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.671 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.047 ms
+10  198.71.46.207 (198.71.46.207)  14.616 ms
+11  206.166.9.49 (206.166.9.49)  15.209 ms
+12  206.166.35.25 (206.166.35.25)  15.669 ms
+13  206.166.35.13 (206.166.35.13)  15.607 ms
+14  66.99.43.226 (66.99.43.226)  14.734 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.189 ms
+ 2  149.149.251.249 (149.149.251.249)  0.316 ms
+ 3  149.149.248.1 (149.149.248.1)  3.054 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.531 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.577 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.701 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  23.202 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.468 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.212 ms
+10  198.71.46.207 (198.71.46.207)  14.631 ms
+11  206.166.9.49 (206.166.9.49)  15.152 ms
+12  206.166.35.25 (206.166.35.25)  15.576 ms
+13  206.166.35.13 (206.166.35.13)  15.517 ms
+14  66.99.43.226 (66.99.43.226)  14.738 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.196 ms
+ 2  149.149.251.249 (149.149.251.249)  0.544 ms
+ 3  149.149.248.1 (149.149.248.1)  3.086 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.475 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  21.797 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.358 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.428 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.371 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.449 ms
+10  198.71.46.207 (198.71.46.207)  14.648 ms
+11  206.166.9.49 (206.166.9.49)  15.474 ms
+12  206.166.35.25 (206.166.35.25)  15.456 ms
+13  206.166.35.13 (206.166.35.13)  15.441 ms
+14  66.99.43.226 (66.99.43.226)  14.726 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.189 ms
+ 2  149.149.251.249 (149.149.251.249)  0.348 ms
+ 3  149.149.248.1 (149.149.248.1)  3.046 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.558 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.818 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.148 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.025 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.231 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.672 ms
+10  198.71.46.207 (198.71.46.207)  14.625 ms
+11  206.166.9.49 (206.166.9.49)  15.066 ms
+12  206.166.35.25 (206.166.35.25)  15.612 ms
+13  206.166.35.13 (206.166.35.13)  15.581 ms
+14  66.99.43.226 (66.99.43.226)  14.720 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.189 ms
+ 2  149.149.251.249 (149.149.251.249)  0.532 ms
+ 3  149.149.248.1 (149.149.248.1)  3.087 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.072 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.415 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.560 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.873 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.172 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.775 ms
+10  198.71.46.207 (198.71.46.207)  14.616 ms
+11  206.166.9.49 (206.166.9.49)  15.234 ms
+12  206.166.35.25 (206.166.35.25)  15.486 ms
+13  206.166.35.13 (206.166.35.13)  15.565 ms
+14  66.99.43.226 (66.99.43.226)  14.712 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.198 ms
+ 2  149.149.251.249 (149.149.251.249)  0.521 ms
+ 3  149.149.248.1 (149.149.248.1)  3.040 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.423 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.217 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.758 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.109 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.594 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.000 ms
+10  198.71.46.207 (198.71.46.207)  14.707 ms
+11  206.166.9.49 (206.166.9.49)  15.154 ms
+12  206.166.35.25 (206.166.35.25)  15.565 ms
+13  206.166.35.13 (206.166.35.13)  15.486 ms
+14  66.99.43.226 (66.99.43.226)  14.726 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.188 ms
+ 2  149.149.251.249 (149.149.251.249)  0.525 ms
+ 3  149.149.248.1 (149.149.248.1)  3.027 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.384 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.605 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.808 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.744 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.283 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.024 ms
+10  198.71.46.207 (198.71.46.207)  14.628 ms
+11  206.166.9.49 (206.166.9.49)  15.329 ms
+12  206.166.35.25 (206.166.35.25)  15.322 ms
+13  206.166.35.13 (206.166.35.13)  15.594 ms
+14  66.99.43.226 (66.99.43.226)  14.707 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.195 ms
+ 2  149.149.251.249 (149.149.251.249)  0.326 ms
+ 3  149.149.248.1 (149.149.248.1)  3.094 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.334 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.136 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.003 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.624 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.025 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  24.259 ms
+10  198.71.46.207 (198.71.46.207)  14.668 ms
+11  206.166.9.49 (206.166.9.49)  15.233 ms
+12  206.166.35.25 (206.166.35.25)  15.501 ms
+13  206.166.35.13 (206.166.35.13)  15.636 ms
+14  66.99.43.226 (66.99.43.226)  14.708 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.200 ms
+ 2  149.149.251.249 (149.149.251.249)  0.367 ms
+ 3  149.149.248.1 (149.149.248.1)  3.052 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.949 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  24.257 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.597 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  23.379 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.531 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.906 ms
+10  198.71.46.207 (198.71.46.207)  14.603 ms
+11  206.166.9.49 (206.166.9.49)  15.151 ms
+12  206.166.35.25 (206.166.35.25)  15.549 ms
+13  206.166.35.13 (206.166.35.13)  15.468 ms
+14  66.99.43.226 (66.99.43.226)  14.666 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.204 ms
+ 2  149.149.251.249 (149.149.251.249)  0.484 ms
+ 3  149.149.248.1 (149.149.248.1)  3.119 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.823 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  21.949 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  24.013 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  22.513 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.828 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.391 ms
+10  198.71.46.207 (198.71.46.207)  14.618 ms
+11  206.166.9.49 (206.166.9.49)  15.332 ms
+12  206.166.35.25 (206.166.35.25)  15.454 ms
+13  206.166.35.13 (206.166.35.13)  15.415 ms
+14  66.99.43.226 (66.99.43.226)  14.817 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.187 ms
+ 2  149.149.251.249 (149.149.251.249)  0.407 ms
+ 3  149.149.248.1 (149.149.248.1)  3.079 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.315 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.743 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.447 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  23.672 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.000 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.714 ms
+10  198.71.46.207 (198.71.46.207)  14.584 ms
+11  206.166.9.49 (206.166.9.49)  15.230 ms
+12  206.166.35.25 (206.166.35.25)  15.419 ms
+13  206.166.35.13 (206.166.35.13)  15.418 ms
+14  66.99.43.226 (66.99.43.226)  14.716 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.202 ms
+ 2  149.149.251.249 (149.149.251.249)  0.457 ms
+ 3  149.149.248.1 (149.149.248.1)  3.111 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.773 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.818 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.598 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  21.555 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.781 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.538 ms
+10  198.71.46.207 (198.71.46.207)  14.725 ms
+11  206.166.9.49 (206.166.9.49)  15.390 ms
+12  206.166.35.25 (206.166.35.25)  15.652 ms
+13  206.166.35.13 (206.166.35.13)  15.577 ms
+14  66.99.43.226 (66.99.43.226)  14.762 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.182 ms
+ 2  149.149.251.249 (149.149.251.249)  0.423 ms
+ 3  149.149.248.1 (149.149.248.1)  3.083 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.708 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.743 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.559 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  23.781 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.233 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  23.162 ms
+10  198.71.46.207 (198.71.46.207)  14.579 ms
+11  206.166.9.49 (206.166.9.49)  15.031 ms
+12  206.166.35.25 (206.166.35.25)  15.542 ms
+13  206.166.35.13 (206.166.35.13)  15.503 ms
+14  66.99.43.226 (66.99.43.226)  14.721 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.210 ms
+ 2  149.149.251.249 (149.149.251.249)  0.362 ms
+ 3  149.149.248.1 (149.149.248.1)  3.108 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.010 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  21.951 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  22.783 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  21.694 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.967 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.654 ms
+10  198.71.46.207 (198.71.46.207)  14.660 ms
+11  206.166.9.49 (206.166.9.49)  15.093 ms
+12  206.166.35.25 (206.166.35.25)  15.543 ms
+13  206.166.35.13 (206.166.35.13)  15.412 ms
+14  66.99.43.226 (66.99.43.226)  14.809 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.121 ms
+ 2  149.149.251.249 (149.149.251.249)  0.290 ms
+ 3  149.149.248.1 (149.149.248.1)  2.972 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  9.866 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.401 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.791 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  22.146 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.064 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.947 ms
+10  198.71.46.207 (198.71.46.207)  14.578 ms
+11  206.166.9.49 (206.166.9.49)  15.188 ms
+12  206.166.35.25 (206.166.35.25)  15.608 ms
+13  206.166.35.13 (206.166.35.13)  15.541 ms
+14  66.99.43.226 (66.99.43.226)  14.707 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.212 ms
+ 2  149.149.251.249 (149.149.251.249)  0.396 ms
+ 3  149.149.248.1 (149.149.248.1)  3.098 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.200 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  23.871 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  24.004 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.501 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.337 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.284 ms
+10  198.71.46.207 (198.71.46.207)  14.787 ms
+11  206.166.9.49 (206.166.9.49)  15.271 ms
+12  206.166.35.25 (206.166.35.25)  15.556 ms
+13  206.166.35.13 (206.166.35.13)  15.507 ms
+14  66.99.43.226 (66.99.43.226)  14.716 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.202 ms
+ 2  149.149.251.249 (149.149.251.249)  0.458 ms
+ 3  149.149.248.1 (149.149.248.1)  3.060 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.506 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  23.166 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.045 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.097 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.025 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.938 ms
+10  198.71.46.207 (198.71.46.207)  14.591 ms
+11  206.166.9.49 (206.166.9.49)  15.183 ms
+12  206.166.35.25 (206.166.35.25)  21.400 ms
+13  206.166.35.13 (206.166.35.13)  15.385 ms
+14  66.99.43.226 (66.99.43.226)  14.755 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.160 ms
+ 2  149.149.251.249 (149.149.251.249)  0.365 ms
+ 3  149.149.248.1 (149.149.248.1)  3.061 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.854 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  24.171 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.159 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.102 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.990 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.760 ms
+10  198.71.46.207 (198.71.46.207)  14.610 ms
+11  206.166.9.49 (206.166.9.49)  15.286 ms
+12  206.166.35.25 (206.166.35.25)  15.796 ms
+13  206.166.35.13 (206.166.35.13)  15.425 ms
+14  66.99.43.226 (66.99.43.226)  14.730 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.179 ms
+ 2  149.149.251.249 (149.149.251.249)  0.362 ms
+ 3  149.149.248.1 (149.149.248.1)  3.138 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.328 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.835 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  24.262 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.158 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.627 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  24.575 ms
+10  198.71.46.207 (198.71.46.207)  14.554 ms
+11  206.166.9.49 (206.166.9.49)  15.600 ms
+12  206.166.35.25 (206.166.35.25)  15.561 ms
+13  206.166.35.13 (206.166.35.13)  15.563 ms
+14  66.99.43.226 (66.99.43.226)  14.731 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.159 ms
+ 2  149.149.251.249 (149.149.251.249)  0.370 ms
+ 3  149.149.248.1 (149.149.248.1)  3.075 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  10.652 ms
+ 5  fourhundredge-0-0-0-23.4079.core2.nash.net.internet2.edu (163.253.2.3)  22.994 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.791 ms
+ 7  fourhundredge-0-0-0-23.4079.core2.cinc.net.internet2.edu (163.253.1.93)  23.567 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  23.196 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  21.711 ms
+10  198.71.46.207 (198.71.46.207)  14.588 ms
+11  206.166.9.49 (206.166.9.49)  15.282 ms
+12  206.166.35.25 (206.166.35.25)  15.529 ms
+13  206.166.35.13 (206.166.35.13)  15.318 ms
+14  66.99.43.226 (66.99.43.226)  14.730 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.156 ms
+ 2  149.149.251.249 (149.149.251.249)  0.426 ms
+ 3  149.149.248.1 (149.149.248.1)  3.020 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.309 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  23.585 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.233 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.241 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.864 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.311 ms
+10  198.71.46.207 (198.71.46.207)  14.583 ms
+11  206.166.9.49 (206.166.9.49)  15.210 ms
+12  206.166.35.25 (206.166.35.25)  15.440 ms
+13  206.166.35.13 (206.166.35.13)  15.362 ms
+14  66.99.43.226 (66.99.43.226)  14.707 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.188 ms
+ 2  149.149.251.249 (149.149.251.249)  0.392 ms
+ 3  149.149.248.1 (149.149.248.1)  3.106 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  9.855 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  21.354 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.617 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.886 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.145 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.168 ms
+10  198.71.46.207 (198.71.46.207)  14.591 ms
+11  206.166.9.49 (206.166.9.49)  15.070 ms
+12  206.166.35.25 (206.166.35.25)  15.547 ms
+13  206.166.35.13 (206.166.35.13)  15.470 ms
+14  66.99.43.226 (66.99.43.226)  14.689 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.177 ms
+ 2  149.149.251.249 (149.149.251.249)  0.485 ms
+ 3  149.149.248.1 (149.149.248.1)  3.175 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.792 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.305 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  21.103 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.241 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.230 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.490 ms
+10  198.71.46.207 (198.71.46.207)  14.729 ms
+11  206.166.9.49 (206.166.9.49)  15.473 ms
+12  206.166.35.25 (206.166.35.25)  15.726 ms
+13  206.166.35.13 (206.166.35.13)  15.693 ms
+14  66.99.43.226 (66.99.43.226)  14.743 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.144 ms
+ 2  149.149.251.249 (149.149.251.249)  10.649 ms
+ 3  149.149.248.1 (149.149.248.1)  3.026 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  11.543 ms
+ 5  fourhundredge-0-0-0-22.4079.core2.nash.net.internet2.edu (163.253.2.1)  22.780 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  24.219 ms
+ 7  fourhundredge-0-0-0-22.4079.core2.cinc.net.internet2.edu (163.253.1.91)  22.475 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  24.235 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.993 ms
+10  198.71.46.207 (198.71.46.207)  14.518 ms
+11  206.166.9.49 (206.166.9.49)  14.984 ms
+12  206.166.35.25 (206.166.35.25)  15.521 ms
+13  206.166.35.13 (206.166.35.13)  15.448 ms
+14  66.99.43.226 (66.99.43.226)  14.706 ms
+traceroute to 66.99.43.226 (66.99.43.226), 30 hops max, 60 byte packets
+ 1  gateway (149.149.248.17)  0.212 ms
+ 2  149.149.251.249 (149.149.251.249)  0.521 ms
+ 3  149.149.248.1 (149.149.248.1)  3.127 ms
+ 4  i2-to-sox-cinc.sox.net (143.215.193.20)  12.032 ms
+ 5  fourhundredge-0-0-0-21.4079.core2.nash.net.internet2.edu (163.253.1.255)  22.557 ms
+ 6  fourhundredge-0-0-0-1.4079.core1.cinc.net.internet2.edu (163.253.2.30)  23.712 ms
+ 7  fourhundredge-0-0-0-21.4079.core2.cinc.net.internet2.edu (163.253.1.89)  23.677 ms
+ 8  fourhundredge-0-0-0-4.4079.core1.chic.net.internet2.edu (163.253.2.22)  22.883 ms
+ 9  fourhundredge-0-0-0-0.4079.core1.star.net.internet2.edu (163.253.2.21)  22.696 ms
+10  198.71.46.207 (198.71.46.207)  14.595 ms
+11  206.166.9.49 (206.166.9.49)  15.337 ms
+12  206.166.35.25 (206.166.35.25)  15.571 ms
+13  206.166.35.13 (206.166.35.13)  15.514 ms
+14  66.99.43.226 (66.99.43.226)  14.705 ms
