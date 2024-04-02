@@ -1,0 +1,1114 @@
+1707444061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 56784 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   105 MBytes   883 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  41.2 MBytes   346 Mbits/sec  411   15.9 MBytes       
+[  5]   2.00-3.00   sec  40.0 MBytes   335 Mbits/sec  502   8.00 MBytes       
+[  5]   3.00-4.00   sec  57.5 MBytes   483 Mbits/sec    1   8.01 MBytes       
+[  5]   4.00-5.00   sec  61.2 MBytes   514 Mbits/sec    0   8.02 MBytes       
+[  5]   5.00-6.00   sec  61.2 MBytes   514 Mbits/sec    0   8.07 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.17 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.30 MBytes       
+[  5]   8.00-9.00   sec  61.2 MBytes   514 Mbits/sec    0   8.48 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.70 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   614 MBytes   515 Mbits/sec  914             sender
+[  5]   0.00-10.05  sec   551 MBytes   460 Mbits/sec                  receiver
+
+iperf Done.
+1707447661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 57730 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   101 MBytes   850 Mbits/sec  188   15.7 MBytes       
+[  5]   1.00-2.00   sec  68.8 MBytes   577 Mbits/sec  783   8.01 MBytes       
+[  5]   2.00-3.00   sec  63.8 MBytes   535 Mbits/sec    0   8.02 MBytes       
+[  5]   3.00-4.00   sec  63.8 MBytes   535 Mbits/sec    0   8.05 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.13 MBytes       
+[  5]   5.00-6.00   sec  63.8 MBytes   535 Mbits/sec    0   8.25 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   8.41 MBytes       
+[  5]   7.00-8.00   sec  63.8 MBytes   535 Mbits/sec    0   8.62 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.87 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   9.15 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   678 MBytes   568 Mbits/sec  971             sender
+[  5]   0.00-10.05  sec   615 MBytes   513 Mbits/sec                  receiver
+
+iperf Done.
+1707458461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 60562 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   107 MBytes   894 Mbits/sec    3   32.0 MBytes       
+[  5]   1.00-2.00   sec  61.2 MBytes   514 Mbits/sec  973   8.00 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   8.01 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.04 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.11 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.22 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.37 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.56 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.79 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   9.05 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   668 MBytes   560 Mbits/sec  976             sender
+[  5]   0.00-10.05  sec   605 MBytes   505 Mbits/sec                  receiver
+
+
+iperf Done.
+1707501661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 43656 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  97.6 MBytes   819 Mbits/sec  509   15.3 MBytes       
+[  5]   1.00-2.00   sec  70.0 MBytes   587 Mbits/sec  752   7.75 MBytes       
+[  5]   2.00-3.00   sec  61.2 MBytes   514 Mbits/sec    0   7.76 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   7.80 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   7.88 MBytes       
+[  5]   5.00-6.00   sec  63.8 MBytes   535 Mbits/sec    0   8.01 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.18 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.39 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.64 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.93 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   668 MBytes   560 Mbits/sec  1261             sender
+[  5]   0.00-10.05  sec   607 MBytes   506 Mbits/sec                  receiver
+
+iperf Done.
+1707505261
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 44612 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   108 MBytes   902 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  63.8 MBytes   535 Mbits/sec  1276   8.01 MBytes       
+[  5]   2.00-3.00   sec  61.2 MBytes   514 Mbits/sec    0   8.02 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.10 MBytes       
+[  5]   5.00-6.00   sec  63.8 MBytes   535 Mbits/sec    0   8.20 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.35 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.54 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.77 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   9.03 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   671 MBytes   563 Mbits/sec  1276             sender
+[  5]   0.00-10.05  sec   608 MBytes   507 Mbits/sec                  receiver
+
+iperf Done.
+1707544862
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 55016 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   106 MBytes   893 Mbits/sec    1   32.0 MBytes       
+[  5]   1.00-2.00   sec  57.5 MBytes   482 Mbits/sec  800   14.0 MBytes       
+[  5]   2.00-3.00   sec  68.8 MBytes   577 Mbits/sec  185   8.01 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  63.8 MBytes   535 Mbits/sec    0   8.08 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.18 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   8.33 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.51 MBytes       
+[  5]   8.00-9.00   sec  63.8 MBytes   535 Mbits/sec    0   8.74 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   9.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   674 MBytes   565 Mbits/sec  986             sender
+[  5]   0.00-10.05  sec   611 MBytes   510 Mbits/sec                  receiver
+
+iperf Done.
+1707588061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 38072 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   114 MBytes   958 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  62.5 MBytes   524 Mbits/sec    0   32.0 MBytes       
+[  5]   2.00-3.00   sec  63.8 MBytes   535 Mbits/sec  117   16.0 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   16.0 MBytes       
+[  5]   4.00-5.00   sec  65.0 MBytes   545 Mbits/sec    0   16.0 MBytes       
+[  5]   5.00-6.00   sec  63.8 MBytes   535 Mbits/sec  180   8.01 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   8.02 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.05 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.10 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   8.19 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   683 MBytes   573 Mbits/sec  297             sender
+[  5]   0.00-10.04  sec   619 MBytes   517 Mbits/sec                  receiver
+
+iperf Done.
+1707631261
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 49410 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   115 MBytes   967 Mbits/sec  483   15.8 MBytes       
+[  5]   1.00-2.00   sec  65.0 MBytes   545 Mbits/sec  352   7.89 MBytes       
+[  5]   2.00-3.00   sec  63.8 MBytes   535 Mbits/sec    0   7.90 MBytes       
+[  5]   3.00-4.00   sec  63.8 MBytes   535 Mbits/sec    0   7.92 MBytes       
+[  5]   4.00-5.00   sec  63.8 MBytes   535 Mbits/sec    0   7.98 MBytes       
+[  5]   5.00-6.00   sec  65.0 MBytes   545 Mbits/sec    0   8.07 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   8.19 MBytes       
+[  5]   7.00-8.00   sec  63.8 MBytes   535 Mbits/sec    0   8.34 MBytes       
+[  5]   8.00-9.00   sec  63.8 MBytes   535 Mbits/sec    0   8.52 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   8.73 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   692 MBytes   580 Mbits/sec  835             sender
+[  5]   0.00-10.04  sec   629 MBytes   525 Mbits/sec                  receiver
+
+iperf Done.
+1707674461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 60680 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   114 MBytes   960 Mbits/sec    1   32.0 MBytes       
+[  5]   1.00-2.00   sec  63.8 MBytes   535 Mbits/sec    0   32.0 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   32.0 MBytes       
+[  5]   3.00-4.00   sec  65.0 MBytes   545 Mbits/sec    0   32.0 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   32.0 MBytes       
+[  5]   5.00-6.00   sec  65.0 MBytes   545 Mbits/sec  312   16.0 MBytes       
+[  5]   6.00-7.00   sec  65.0 MBytes   545 Mbits/sec   13   8.02 MBytes       
+[  5]   7.00-8.00   sec  63.8 MBytes   535 Mbits/sec    0   8.03 MBytes       
+[  5]   8.00-9.00   sec  63.8 MBytes   535 Mbits/sec    0   8.06 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   8.12 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   690 MBytes   578 Mbits/sec  326             sender
+[  5]   0.00-10.04  sec   626 MBytes   523 Mbits/sec                  receiver
+
+iperf Done.
+1707717661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 43718 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   107 MBytes   894 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  63.8 MBytes   535 Mbits/sec    0   32.0 MBytes       
+[  5]   2.00-3.00   sec  58.8 MBytes   493 Mbits/sec  108   16.0 MBytes       
+[  5]   3.00-4.00   sec  66.2 MBytes   556 Mbits/sec    0   16.0 MBytes       
+[  5]   4.00-5.00   sec  55.0 MBytes   461 Mbits/sec  533   8.00 MBytes       
+[  5]   5.00-6.00   sec  46.2 MBytes   388 Mbits/sec  339   8.01 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.02 MBytes       
+[  5]   7.00-8.00   sec  63.8 MBytes   535 Mbits/sec    0   8.06 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.15 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.27 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   648 MBytes   543 Mbits/sec  980             sender
+[  5]   0.00-10.05  sec   584 MBytes   488 Mbits/sec                  receiver
+
+iperf Done.
+1707760861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 54960 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  97.9 MBytes   821 Mbits/sec  716   15.1 MBytes       
+[  5]   1.00-2.00   sec  48.8 MBytes   409 Mbits/sec  1588   7.75 MBytes       
+[  5]   2.00-3.00   sec  57.5 MBytes   482 Mbits/sec    0   7.76 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   7.78 MBytes       
+[  5]   4.00-5.00   sec  61.2 MBytes   514 Mbits/sec    0   7.84 MBytes       
+[  5]   5.00-6.00   sec  61.2 MBytes   514 Mbits/sec    0   7.95 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.11 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.30 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.54 MBytes       
+[  5]   9.00-10.00  sec  61.2 MBytes   514 Mbits/sec    0   8.82 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   637 MBytes   534 Mbits/sec  2304             sender
+[  5]   0.00-10.05  sec   576 MBytes   480 Mbits/sec                  receiver
+
+iperf Done.
+1707804061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 37992 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   105 MBytes   883 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  53.8 MBytes   451 Mbits/sec  149   8.00 MBytes       
+[  5]   2.00-3.00   sec  72.5 MBytes   608 Mbits/sec    0   8.01 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.09 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.20 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.35 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.54 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.78 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   9.04 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   669 MBytes   561 Mbits/sec  149             sender
+[  5]   0.00-10.05  sec   606 MBytes   505 Mbits/sec                  receiver
+
+iperf Done.
+1707847262
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 49242 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  88.9 MBytes   745 Mbits/sec  1329   14.0 MBytes       
+[  5]   1.00-2.00   sec  40.0 MBytes   336 Mbits/sec  210   11.7 MBytes       
+[  5]   2.00-3.00   sec  68.8 MBytes   577 Mbits/sec  405   7.03 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   7.05 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   7.11 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   7.22 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   7.38 MBytes       
+[  5]   7.00-8.00   sec  61.2 MBytes   514 Mbits/sec    1   7.59 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   7.84 MBytes       
+[  5]   9.00-10.00  sec  61.2 MBytes   514 Mbits/sec    0   8.12 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   631 MBytes   530 Mbits/sec  1945             sender
+[  5]   0.00-10.05  sec   576 MBytes   481 Mbits/sec                  receiver
+
+iperf Done.
+1707890461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 60496 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   105 MBytes   882 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  61.2 MBytes   514 Mbits/sec  1627   8.00 MBytes       
+[  5]   2.00-3.00   sec  63.8 MBytes   535 Mbits/sec    3   8.01 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.08 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.18 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.32 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.50 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.72 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.99 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   668 MBytes   560 Mbits/sec  1630             sender
+[  5]   0.00-10.05  sec   605 MBytes   505 Mbits/sec                  receiver
+
+iperf Done.
+1707933661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 43506 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   103 MBytes   864 Mbits/sec  1646   13.6 MBytes       
+[  5]   1.00-2.00   sec  40.0 MBytes   336 Mbits/sec  102   6.80 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   6.81 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   6.83 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   6.89 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   6.98 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   7.10 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   7.26 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   7.45 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   7.66 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   643 MBytes   539 Mbits/sec  1748             sender
+[  5]   0.00-10.03  sec   589 MBytes   492 Mbits/sec                  receiver
+
+iperf Done.
+1707976861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 54760 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   112 MBytes   939 Mbits/sec  594   15.2 MBytes       
+[  5]   1.00-2.00   sec  67.5 MBytes   566 Mbits/sec  122   8.01 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   8.02 MBytes       
+[  5]   3.00-4.00   sec  63.8 MBytes   535 Mbits/sec    0   8.04 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.10 MBytes       
+[  5]   5.00-6.00   sec  63.8 MBytes   535 Mbits/sec    0   8.19 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.31 MBytes       
+[  5]   7.00-8.00   sec  63.8 MBytes   535 Mbits/sec    0   8.46 MBytes       
+[  5]   8.00-9.00   sec  63.8 MBytes   535 Mbits/sec    0   8.64 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   8.85 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   686 MBytes   575 Mbits/sec  716             sender
+[  5]   0.00-10.04  sec   622 MBytes   520 Mbits/sec                  receiver
+
+iperf Done.
+1708020062
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 37784 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   100 MBytes   841 Mbits/sec  1870   13.5 MBytes       
+[  5]   1.00-2.00   sec  41.2 MBytes   346 Mbits/sec  503   6.77 MBytes       
+[  5]   2.00-3.00   sec  61.2 MBytes   514 Mbits/sec    0   6.78 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   6.80 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   6.86 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   6.96 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   7.09 MBytes       
+[  5]   7.00-8.00   sec  63.8 MBytes   535 Mbits/sec    0   7.25 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   7.45 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   7.67 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   642 MBytes   538 Mbits/sec  2373             sender
+[  5]   0.00-10.04  sec   588 MBytes   491 Mbits/sec                  receiver
+
+iperf Done.
+1708063262
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 49204 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   113 MBytes   945 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  63.8 MBytes   535 Mbits/sec  992   8.00 MBytes       
+[  5]   2.00-3.00   sec  61.2 MBytes   514 Mbits/sec    0   8.01 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.08 MBytes       
+[  5]   5.00-6.00   sec  61.2 MBytes   514 Mbits/sec    0   8.17 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.28 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.42 MBytes       
+[  5]   8.00-9.00   sec  61.2 MBytes   514 Mbits/sec    0   8.60 MBytes       
+[  5]   9.00-10.00  sec  61.2 MBytes   514 Mbits/sec    0   8.80 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   670 MBytes   562 Mbits/sec  992             sender
+[  5]   0.00-10.04  sec   607 MBytes   507 Mbits/sec                  receiver
+
+iperf Done.
+1708106461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 60492 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  96.4 MBytes   808 Mbits/sec  471   15.1 MBytes       
+[  5]   1.00-2.00   sec  67.5 MBytes   566 Mbits/sec  1704   7.58 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   7.59 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   7.62 MBytes       
+[  5]   4.00-5.00   sec  61.2 MBytes   514 Mbits/sec    0   7.71 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   7.84 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.01 MBytes       
+[  5]   7.00-8.00   sec  61.2 MBytes   514 Mbits/sec    0   8.23 MBytes       
+[  5]   8.00-9.00   sec  61.2 MBytes   514 Mbits/sec    0   8.48 MBytes       
+[  5]   9.00-10.00  sec  61.2 MBytes   514 Mbits/sec    0   8.78 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   656 MBytes   551 Mbits/sec  2175             sender
+[  5]   0.00-10.05  sec   597 MBytes   498 Mbits/sec                  receiver
+
+iperf Done.
+1708149661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 43582 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   104 MBytes   873 Mbits/sec  274   15.6 MBytes       
+[  5]   1.00-2.00   sec  73.8 MBytes   619 Mbits/sec  2342   8.01 MBytes       
+[  5]   2.00-3.00   sec  61.2 MBytes   514 Mbits/sec    0   8.02 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.05 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.11 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.20 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.33 MBytes       
+[  5]   7.00-8.00   sec  61.2 MBytes   514 Mbits/sec    0   8.48 MBytes       
+[  5]   8.00-9.00   sec  61.2 MBytes   514 Mbits/sec    0   8.66 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.87 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   673 MBytes   564 Mbits/sec  2616             sender
+[  5]   0.00-10.05  sec   610 MBytes   509 Mbits/sec                  receiver
+
+iperf Done.
+1708192861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 54920 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   113 MBytes   949 Mbits/sec    2   32.0 MBytes       
+[  5]   1.00-2.00   sec  63.8 MBytes   535 Mbits/sec    0   32.0 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   32.0 MBytes       
+[  5]   3.00-4.00   sec  63.8 MBytes   535 Mbits/sec    0   32.0 MBytes       
+[  5]   4.00-5.00   sec  56.2 MBytes   472 Mbits/sec  240   15.7 MBytes       
+[  5]   5.00-6.00   sec  71.2 MBytes   598 Mbits/sec   10   8.01 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.02 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.04 MBytes       
+[  5]   8.00-9.00   sec  63.8 MBytes   535 Mbits/sec    0   8.10 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.19 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   681 MBytes   571 Mbits/sec  252             sender
+[  5]   0.00-10.04  sec   617 MBytes   515 Mbits/sec                  receiver
+
+iperf Done.
+1708236062
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 38072 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   106 MBytes   893 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  55.0 MBytes   461 Mbits/sec   19   12.1 MBytes       
+[  5]   2.00-3.00   sec  68.8 MBytes   577 Mbits/sec  386   8.01 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.08 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.18 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.32 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.50 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.72 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.98 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   666 MBytes   559 Mbits/sec  405             sender
+[  5]   0.00-10.05  sec   604 MBytes   504 Mbits/sec                  receiver
+
+iperf Done.
+1708279261
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 49444 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   114 MBytes   956 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  63.8 MBytes   535 Mbits/sec    0   32.0 MBytes       
+[  5]   2.00-3.00   sec  63.8 MBytes   535 Mbits/sec    1   32.0 MBytes       
+[  5]   3.00-4.00   sec  66.2 MBytes   556 Mbits/sec   51   16.0 MBytes       
+[  5]   4.00-5.00   sec  65.0 MBytes   545 Mbits/sec  1080   8.01 MBytes       
+[  5]   5.00-6.00   sec  63.8 MBytes   535 Mbits/sec    0   8.02 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   8.06 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.12 MBytes       
+[  5]   8.00-9.00   sec  63.8 MBytes   535 Mbits/sec    0   8.22 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   8.35 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   690 MBytes   579 Mbits/sec  1132             sender
+[  5]   0.00-10.04  sec   627 MBytes   524 Mbits/sec                  receiver
+
+iperf Done.
+1708322461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 60844 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   116 MBytes   977 Mbits/sec   98   15.9 MBytes       
+[  5]   1.00-2.00   sec  36.2 MBytes   304 Mbits/sec  483   8.00 MBytes       
+[  5]   2.00-3.00   sec  65.0 MBytes   546 Mbits/sec    3   8.01 MBytes       
+[  5]   3.00-4.00   sec  63.8 MBytes   535 Mbits/sec    0   8.02 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.06 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.13 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   8.22 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.35 MBytes       
+[  5]   8.00-9.00   sec  63.8 MBytes   535 Mbits/sec    0   8.51 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   8.69 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   660 MBytes   554 Mbits/sec  584             sender
+[  5]   0.00-10.05  sec   597 MBytes   498 Mbits/sec                  receiver
+
+iperf Done.
+1708365661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 43996 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  73.0 MBytes   612 Mbits/sec  2182   11.4 MBytes       
+[  5]   1.00-2.00   sec  58.8 MBytes   493 Mbits/sec    9   11.4 MBytes       
+[  5]   2.00-3.00   sec  65.0 MBytes   545 Mbits/sec   82   5.72 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   5.73 MBytes       
+[  5]   4.00-5.00   sec  61.2 MBytes   514 Mbits/sec    0   5.76 MBytes       
+[  5]   5.00-6.00   sec  61.2 MBytes   514 Mbits/sec    0   5.83 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   5.94 MBytes       
+[  5]   7.00-8.00   sec  61.2 MBytes   514 Mbits/sec    0   6.09 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   6.28 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   6.50 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   630 MBytes   529 Mbits/sec  2273             sender
+[  5]   0.00-10.03  sec   585 MBytes   489 Mbits/sec                  receiver
+
+iperf Done.
+1708408861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 55426 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   113 MBytes   945 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  65.0 MBytes   545 Mbits/sec  2502   8.01 MBytes       
+[  5]   2.00-3.00   sec  67.5 MBytes   566 Mbits/sec    4   2.03 MBytes       
+[  5]   3.00-4.00   sec  65.0 MBytes   545 Mbits/sec    0   2.08 MBytes       
+[  5]   4.00-5.00   sec  65.0 MBytes   545 Mbits/sec    0   2.20 MBytes       
+[  5]   5.00-6.00   sec  66.2 MBytes   556 Mbits/sec    0   2.42 MBytes       
+[  5]   6.00-7.00   sec  65.0 MBytes   545 Mbits/sec    0   2.72 MBytes       
+[  5]   7.00-8.00   sec  65.0 MBytes   545 Mbits/sec    0   3.06 MBytes       
+[  5]   8.00-9.00   sec  65.0 MBytes   545 Mbits/sec    0   3.45 MBytes       
+[  5]   9.00-10.00  sec  65.0 MBytes   545 Mbits/sec    0   3.86 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   701 MBytes   588 Mbits/sec  2506             sender
+[  5]   0.00-10.03  sec   634 MBytes   530 Mbits/sec                  receiver
+
+iperf Done.
+1708452061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 38622 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  86.2 MBytes   723 Mbits/sec  1874   13.5 MBytes       
+[  5]   1.00-2.00   sec  36.2 MBytes   304 Mbits/sec  564   10.8 MBytes       
+[  5]   2.00-3.00   sec  40.0 MBytes   336 Mbits/sec  109   6.85 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   6.86 MBytes       
+[  5]   4.00-5.00   sec  61.2 MBytes   514 Mbits/sec    0   6.90 MBytes       
+[  5]   5.00-6.00   sec  60.0 MBytes   503 Mbits/sec    0   6.99 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   7.13 MBytes       
+[  5]   7.00-8.00   sec  60.0 MBytes   503 Mbits/sec    0   7.31 MBytes       
+[  5]   8.00-9.00   sec  60.0 MBytes   503 Mbits/sec    0   7.54 MBytes       
+[  5]   9.00-10.00  sec  60.0 MBytes   503 Mbits/sec    0   7.80 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   586 MBytes   492 Mbits/sec  2547             sender
+[  5]   0.00-10.05  sec   532 MBytes   444 Mbits/sec                  receiver
+
+iperf Done.
+1708495261
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 50092 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   110 MBytes   918 Mbits/sec  1501   14.0 MBytes       
+[  5]   1.00-2.00   sec  63.8 MBytes   535 Mbits/sec  615   7.57 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   7.58 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   7.61 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   7.67 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   7.77 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   7.90 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.05 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.24 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.46 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   674 MBytes   566 Mbits/sec  2116             sender
+[  5]   0.00-10.04  sec   615 MBytes   513 Mbits/sec                  receiver
+
+iperf Done.
+1708538461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 33336 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   103 MBytes   861 Mbits/sec  273   15.6 MBytes       
+[  5]   1.00-2.00   sec  66.2 MBytes   556 Mbits/sec  1049   8.01 MBytes       
+[  5]   2.00-3.00   sec  61.2 MBytes   514 Mbits/sec    0   8.02 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   8.05 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.12 MBytes       
+[  5]   5.00-6.00   sec  61.2 MBytes   514 Mbits/sec    0   8.24 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.40 MBytes       
+[  5]   7.00-8.00   sec  61.2 MBytes   514 Mbits/sec    0   8.61 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.85 MBytes       
+[  5]   9.00-10.00  sec  61.2 MBytes   514 Mbits/sec    0   9.13 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   661 MBytes   555 Mbits/sec  1322             sender
+[  5]   0.00-10.05  sec   598 MBytes   499 Mbits/sec                  receiver
+
+iperf Done.
+1708581662
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 44850 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  99.1 MBytes   831 Mbits/sec  631   15.2 MBytes       
+[  5]   1.00-2.00   sec  67.5 MBytes   566 Mbits/sec  2724   7.83 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   7.84 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   7.88 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   7.95 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.08 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   8.25 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.46 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.68 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.97 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   668 MBytes   560 Mbits/sec  3355             sender
+[  5]   0.00-10.05  sec   606 MBytes   506 Mbits/sec                  receiver
+
+iperf Done.
+1708624861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 56356 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  90.2 MBytes   757 Mbits/sec  1301   14.1 MBytes       
+[  5]   1.00-2.00   sec  36.2 MBytes   304 Mbits/sec  425   9.64 MBytes       
+[  5]   2.00-3.00   sec  67.5 MBytes   566 Mbits/sec  394   7.08 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   7.09 MBytes       
+[  5]   4.00-5.00   sec  61.2 MBytes   514 Mbits/sec    0   7.15 MBytes       
+[  5]   5.00-6.00   sec  60.0 MBytes   503 Mbits/sec    0   7.26 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   7.41 MBytes       
+[  5]   7.00-8.00   sec  61.2 MBytes   514 Mbits/sec    0   7.58 MBytes       
+[  5]   8.00-9.00   sec  60.0 MBytes   503 Mbits/sec    0   7.82 MBytes       
+[  5]   9.00-10.00  sec  61.2 MBytes   514 Mbits/sec    0   8.09 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   620 MBytes   520 Mbits/sec  2120             sender
+[  5]   0.00-10.05  sec   565 MBytes   472 Mbits/sec                  receiver
+
+iperf Done.
+1708668061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 39660 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   108 MBytes   903 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  61.2 MBytes   514 Mbits/sec  2113   8.00 MBytes       
+[  5]   2.00-3.00   sec  63.8 MBytes   535 Mbits/sec    0   8.01 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   8.04 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.11 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.22 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.37 MBytes       
+[  5]   7.00-8.00   sec  61.2 MBytes   514 Mbits/sec    0   8.56 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.79 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   9.06 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   666 MBytes   559 Mbits/sec  2113             sender
+[  5]   0.00-10.04  sec   603 MBytes   504 Mbits/sec                  receiver
+
+iperf Done.
+1708711261
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 51166 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   106 MBytes   885 Mbits/sec  863   14.9 MBytes       
+[  5]   1.00-2.00   sec  47.5 MBytes   398 Mbits/sec  1309   8.01 MBytes       
+[  5]   2.00-3.00   sec  60.0 MBytes   503 Mbits/sec    0   8.02 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.07 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.15 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.25 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.39 MBytes       
+[  5]   8.00-9.00   sec  61.2 MBytes   514 Mbits/sec    0   8.56 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   8.75 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   650 MBytes   546 Mbits/sec  2172             sender
+[  5]   0.00-10.04  sec   587 MBytes   490 Mbits/sec                  receiver
+
+iperf Done.
+1708754461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 34478 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   114 MBytes   956 Mbits/sec    1   32.0 MBytes       
+[  5]   1.00-2.00   sec  62.5 MBytes   524 Mbits/sec    0   32.0 MBytes       
+[  5]   2.00-3.00   sec  63.8 MBytes   535 Mbits/sec  561   8.00 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   8.01 MBytes       
+[  5]   4.00-5.00   sec  61.2 MBytes   514 Mbits/sec    0   8.03 MBytes       
+[  5]   5.00-6.00   sec  61.2 MBytes   514 Mbits/sec    0   8.08 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   8.16 MBytes       
+[  5]   7.00-8.00   sec  61.2 MBytes   514 Mbits/sec    0   8.26 MBytes       
+[  5]   8.00-9.00   sec  65.0 MBytes   545 Mbits/sec    3   4.17 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   4.19 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   675 MBytes   566 Mbits/sec  565             sender
+[  5]   0.00-10.03  sec   610 MBytes   510 Mbits/sec                  receiver
+
+iperf Done.
+1708797661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 46012 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   114 MBytes   956 Mbits/sec    1   32.0 MBytes       
+[  5]   1.00-2.00   sec  62.5 MBytes   524 Mbits/sec    1   32.0 MBytes       
+[  5]   2.00-3.00   sec  56.2 MBytes   472 Mbits/sec  284   16.0 MBytes       
+[  5]   3.00-4.00   sec  71.2 MBytes   598 Mbits/sec   27   8.01 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.02 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.05 MBytes       
+[  5]   6.00-7.00   sec  63.8 MBytes   535 Mbits/sec    0   8.12 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.22 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.34 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.48 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   680 MBytes   571 Mbits/sec  313             sender
+[  5]   0.00-10.04  sec   617 MBytes   515 Mbits/sec                  receiver
+
+iperf Done.
+1708840861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 57602 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   107 MBytes   895 Mbits/sec   11   16.0 MBytes       
+[  5]   1.00-2.00   sec  71.2 MBytes   598 Mbits/sec  898   8.00 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   8.02 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  62.5 MBytes   524 Mbits/sec    0   8.08 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.15 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.26 MBytes       
+[  5]   7.00-8.00   sec  62.5 MBytes   524 Mbits/sec    0   8.40 MBytes       
+[  5]   8.00-9.00   sec  63.8 MBytes   535 Mbits/sec    0   8.56 MBytes       
+[  5]   9.00-10.00  sec  62.5 MBytes   524 Mbits/sec    0   8.76 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   679 MBytes   570 Mbits/sec  909             sender
+[  5]   0.00-10.04  sec   616 MBytes   515 Mbits/sec                  receiver
+
+iperf Done.
+1708884061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 40936 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   115 MBytes   967 Mbits/sec    1   32.0 MBytes       
+[  5]   1.00-2.00   sec  62.5 MBytes   524 Mbits/sec  163   16.0 MBytes       
+[  5]   2.00-3.00   sec  62.5 MBytes   524 Mbits/sec    0   16.0 MBytes       
+[  5]   3.00-4.00   sec  61.2 MBytes   514 Mbits/sec    0   16.0 MBytes       
+[  5]   4.00-5.00   sec  66.2 MBytes   556 Mbits/sec    0   16.0 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   16.0 MBytes       
+[  5]   6.00-7.00   sec  61.2 MBytes   514 Mbits/sec    0   16.0 MBytes       
+[  5]   7.00-8.00   sec  66.2 MBytes   556 Mbits/sec    0   16.0 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   16.0 MBytes       
+[  5]   9.00-10.00  sec  55.0 MBytes   461 Mbits/sec   34   8.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   675 MBytes   566 Mbits/sec  198             sender
+[  5]   0.00-10.03  sec   622 MBytes   520 Mbits/sec                  receiver
+
+iperf Done.
+1708927261
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 52524 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   114 MBytes   956 Mbits/sec    1   32.0 MBytes       
+[  5]   1.00-2.00   sec  67.5 MBytes   566 Mbits/sec  1647   8.01 MBytes       
+[  5]   2.00-3.00   sec  61.2 MBytes   514 Mbits/sec    0   8.02 MBytes       
+[  5]   3.00-4.00   sec  62.5 MBytes   524 Mbits/sec    0   8.03 MBytes       
+[  5]   4.00-5.00   sec  63.8 MBytes   535 Mbits/sec    0   8.07 MBytes       
+[  5]   5.00-6.00   sec  62.5 MBytes   524 Mbits/sec    0   8.14 MBytes       
+[  5]   6.00-7.00   sec  62.5 MBytes   524 Mbits/sec    0   8.25 MBytes       
+[  5]   7.00-8.00   sec  63.8 MBytes   535 Mbits/sec    0   8.38 MBytes       
+[  5]   8.00-9.00   sec  62.5 MBytes   524 Mbits/sec    0   8.54 MBytes       
+[  5]   9.00-10.00  sec  63.8 MBytes   535 Mbits/sec    0   8.73 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   684 MBytes   574 Mbits/sec  1648             sender
+[  5]   0.00-10.04  sec   620 MBytes   518 Mbits/sec                  receiver
+
+iperf Done.
+1708970461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 35886 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  58.9 MBytes   494 Mbits/sec    0   18.5 MBytes       
+[  5]   1.00-2.00   sec  12.5 MBytes   105 Mbits/sec  2455    128 KBytes       
+[  5]   2.00-3.00   sec  37.5 MBytes   315 Mbits/sec  1121   5.57 MBytes       
+[  5]   3.00-4.00   sec  20.0 MBytes   168 Mbits/sec    0   5.57 MBytes       
+[  5]   4.00-5.00   sec  23.8 MBytes   199 Mbits/sec    0   5.59 MBytes       
+[  5]   5.00-6.00   sec  18.8 MBytes   157 Mbits/sec    0   5.62 MBytes       
+[  5]   6.00-7.00   sec  22.5 MBytes   189 Mbits/sec    0   5.69 MBytes       
+[  5]   7.00-8.00   sec  20.0 MBytes   168 Mbits/sec    0   5.78 MBytes       
+[  5]   8.00-9.00   sec  20.0 MBytes   168 Mbits/sec    0   5.89 MBytes       
+[  5]   9.00-10.00  sec  22.5 MBytes   189 Mbits/sec    0   6.04 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   256 MBytes   215 Mbits/sec  3576             sender
+[  5]   0.00-10.06  sec   212 MBytes   177 Mbits/sec                  receiver
+
+iperf Done.
+1709013661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 47512 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  92.0 MBytes   772 Mbits/sec  674   14.5 MBytes       
+[  5]   1.00-2.00   sec  30.0 MBytes   252 Mbits/sec  2761   7.25 MBytes       
+[  5]   2.00-3.00   sec  36.2 MBytes   304 Mbits/sec    1   7.26 MBytes       
+[  5]   3.00-4.00   sec  41.2 MBytes   346 Mbits/sec    0   7.26 MBytes       
+[  5]   4.00-5.00   sec  42.5 MBytes   357 Mbits/sec    0   7.28 MBytes       
+[  5]   5.00-6.00   sec  40.0 MBytes   336 Mbits/sec    0   7.32 MBytes       
+[  5]   6.00-7.00   sec  40.0 MBytes   336 Mbits/sec    0   7.39 MBytes       
+[  5]   7.00-8.00   sec  36.2 MBytes   304 Mbits/sec    0   7.47 MBytes       
+[  5]   8.00-9.00   sec  35.0 MBytes   294 Mbits/sec    0   7.57 MBytes       
+[  5]   9.00-10.00  sec  37.5 MBytes   315 Mbits/sec    0   7.69 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   431 MBytes   361 Mbits/sec  3436             sender
+[  5]   0.00-10.04  sec   373 MBytes   312 Mbits/sec                  receiver
+
+iperf Done.
+1709056861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 59100 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   503 KBytes  4.12 Mbits/sec    9   9.62 KBytes       
+[  5]   1.00-2.00   sec  63.2 KBytes   518 Kbits/sec    7   4.12 KBytes       
+[  5]   2.00-3.00   sec   253 KBytes  2.07 Mbits/sec    0   22.0 KBytes       
+[  5]   3.00-4.00   sec   443 KBytes  3.63 Mbits/sec    2   30.2 KBytes       
+[  5]   4.00-5.00   sec   806 KBytes  6.60 Mbits/sec    0   53.6 KBytes       
+[  5]   5.00-6.00   sec   554 KBytes  4.54 Mbits/sec    9   17.9 KBytes       
+[  5]   6.00-7.00   sec   506 KBytes  4.15 Mbits/sec    5   5.50 KBytes       
+[  5]   7.00-8.00   sec   126 KBytes  1.04 Mbits/sec    0   16.5 KBytes       
+[  5]   8.00-9.00   sec   253 KBytes  2.07 Mbits/sec    5   6.88 KBytes       
+[  5]   9.00-10.00  sec   126 KBytes  1.04 Mbits/sec    3   8.25 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  3.55 MBytes  2.98 Mbits/sec   40             sender
+[  5]   0.00-10.05  sec  3.39 MBytes  2.83 Mbits/sec                  receiver
+
+iperf Done.
+1709100061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 42376 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  95.1 MBytes   798 Mbits/sec  798   15.0 MBytes       
+[  5]   1.00-2.00   sec  16.2 MBytes   136 Mbits/sec  1407   15.0 MBytes       
+[  5]   2.00-3.00   sec  46.2 MBytes   388 Mbits/sec  1103   7.49 MBytes       
+[  5]   3.00-4.00   sec  45.0 MBytes   378 Mbits/sec    0   7.50 MBytes       
+[  5]   4.00-5.00   sec  41.2 MBytes   346 Mbits/sec    0   7.51 MBytes       
+[  5]   5.00-6.00   sec  45.0 MBytes   377 Mbits/sec    0   7.55 MBytes       
+[  5]   6.00-7.00   sec  42.5 MBytes   357 Mbits/sec    0   7.61 MBytes       
+[  5]   7.00-8.00   sec  41.2 MBytes   346 Mbits/sec    0   7.69 MBytes       
+[  5]   8.00-9.00   sec  38.8 MBytes   325 Mbits/sec    0   7.77 MBytes       
+[  5]   9.00-10.00  sec  42.5 MBytes   357 Mbits/sec    0   7.90 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   454 MBytes   381 Mbits/sec  3308             sender
+[  5]   0.00-10.05  sec   394 MBytes   329 Mbits/sec                  receiver
+
+iperf Done.
+1709143262
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 53900 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   663 KBytes  5.43 Mbits/sec   19   16.5 KBytes       
+[  5]   1.00-2.00   sec   632 KBytes  5.18 Mbits/sec    0   42.6 KBytes       
+[  5]   2.00-3.00   sec   253 KBytes  2.07 Mbits/sec    8   16.5 KBytes       
+[  5]   3.00-4.00   sec   253 KBytes  2.07 Mbits/sec    6   5.50 KBytes       
+[  5]   4.00-5.00   sec   126 KBytes  1.04 Mbits/sec    4   5.50 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    5   2.75 KBytes       
+[  5]   6.00-7.00   sec   126 KBytes  1.04 Mbits/sec    3   9.62 KBytes       
+[  5]   7.00-8.00   sec   126 KBytes  1.04 Mbits/sec    6   5.50 KBytes       
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    4   4.12 KBytes       
+[  5]   9.00-10.00  sec   126 KBytes  1.04 Mbits/sec    3   5.50 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  2.25 MBytes  1.89 Mbits/sec   58             sender
+[  5]   0.00-10.04  sec  2.12 MBytes  1.77 Mbits/sec                  receiver
+
+iperf Done.
+1709186461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 37232 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  93.9 MBytes   787 Mbits/sec  575   14.9 MBytes       
+[  5]   1.00-2.00   sec  16.2 MBytes   136 Mbits/sec  1486   14.9 MBytes       
+[  5]   2.00-3.00   sec  18.8 MBytes   157 Mbits/sec  1883   7.45 MBytes       
+[  5]   3.00-4.00   sec  33.8 MBytes   283 Mbits/sec   39   7.45 MBytes       
+[  5]   4.00-5.00   sec  38.8 MBytes   325 Mbits/sec    0   7.46 MBytes       
+[  5]   5.00-6.00   sec  41.2 MBytes   346 Mbits/sec    0   7.48 MBytes       
+[  5]   6.00-7.00   sec  41.2 MBytes   346 Mbits/sec    0   7.52 MBytes       
+[  5]   7.00-8.00   sec  40.0 MBytes   336 Mbits/sec    0   7.59 MBytes       
+[  5]   8.00-9.00   sec  37.5 MBytes   315 Mbits/sec    0   7.67 MBytes       
+[  5]   9.00-10.00  sec  37.5 MBytes   315 Mbits/sec    0   7.77 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   399 MBytes   335 Mbits/sec  3983             sender
+[  5]   0.00-10.03  sec   340 MBytes   284 Mbits/sec                  receiver
+
+iperf Done.
+1709229661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 48796 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  77.9 MBytes   653 Mbits/sec  1426   12.3 MBytes       
+[  5]   1.00-2.00   sec  30.0 MBytes   252 Mbits/sec  432   6.15 MBytes       
+[  5]   2.00-3.00   sec  45.0 MBytes   378 Mbits/sec   21   6.16 MBytes       
+[  5]   3.00-4.00   sec  48.8 MBytes   409 Mbits/sec    0   6.17 MBytes       
+[  5]   4.00-5.00   sec  46.2 MBytes   388 Mbits/sec    0   6.21 MBytes       
+[  5]   5.00-6.00   sec  46.2 MBytes   388 Mbits/sec    0   6.30 MBytes       
+[  5]   6.00-7.00   sec  53.8 MBytes   451 Mbits/sec    0   6.44 MBytes       
+[  5]   7.00-8.00   sec  47.5 MBytes   398 Mbits/sec    0   6.61 MBytes       
+[  5]   8.00-9.00   sec  52.5 MBytes   440 Mbits/sec    0   6.84 MBytes       
+[  5]   9.00-10.00  sec  48.8 MBytes   409 Mbits/sec    0   7.08 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   497 MBytes   417 Mbits/sec  1879             sender
+[  5]   0.00-10.04  sec   447 MBytes   373 Mbits/sec                  receiver
+
+iperf Done.
+1709272861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 60464 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   100 MBytes   841 Mbits/sec  934   14.7 MBytes       
+[  5]   1.00-2.00   sec  23.8 MBytes   199 Mbits/sec  854   15.8 MBytes       
+[  5]   2.00-3.00   sec  12.5 MBytes   105 Mbits/sec  1477   7.89 MBytes       
+[  5]   3.00-4.00   sec  47.5 MBytes   399 Mbits/sec    1   7.90 MBytes       
+[  5]   4.00-5.00   sec  41.2 MBytes   346 Mbits/sec    0   7.90 MBytes       
+[  5]   5.00-6.00   sec  41.2 MBytes   346 Mbits/sec    0   7.93 MBytes       
+[  5]   6.00-7.00   sec  43.8 MBytes   367 Mbits/sec    0   7.98 MBytes       
+[  5]   7.00-8.00   sec  40.0 MBytes   336 Mbits/sec    0   8.05 MBytes       
+[  5]   8.00-9.00   sec  45.0 MBytes   377 Mbits/sec    0   8.14 MBytes       
+[  5]   9.00-10.00  sec  40.0 MBytes   336 Mbits/sec    0   8.25 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   435 MBytes   365 Mbits/sec  3266             sender
+[  5]   0.00-10.06  sec   373 MBytes   311 Mbits/sec                  receiver
+
+iperf Done.
+1709316061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 43842 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  26.2 MBytes   220 Mbits/sec    0   8.03 MBytes       
+[  5]   1.00-2.00   sec  57.5 MBytes   482 Mbits/sec  1846   13.3 MBytes       
+[  5]   2.00-3.00   sec  25.0 MBytes   210 Mbits/sec  139   5.29 MBytes       
+[  5]   3.00-4.00   sec  17.5 MBytes   147 Mbits/sec  329   6.64 MBytes       
+[  5]   4.00-5.00   sec  21.2 MBytes   178 Mbits/sec    0   6.64 MBytes       
+[  5]   5.00-6.00   sec  25.0 MBytes   210 Mbits/sec    0   6.67 MBytes       
+[  5]   6.00-7.00   sec  25.0 MBytes   210 Mbits/sec    0   6.72 MBytes       
+[  5]   7.00-8.00   sec  21.2 MBytes   178 Mbits/sec    0   6.79 MBytes       
+[  5]   8.00-9.00   sec  21.2 MBytes   178 Mbits/sec    0   6.88 MBytes       
+[  5]   9.00-10.00  sec  20.0 MBytes   168 Mbits/sec    0   6.99 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   260 MBytes   218 Mbits/sec  2314             sender
+[  5]   0.00-10.09  sec   208 MBytes   173 Mbits/sec                  receiver
+
+iperf Done.
+1709359261
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 55464 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   107 MBytes   898 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  15.0 MBytes   126 Mbits/sec  1947   16.0 MBytes       
+[  5]   2.00-3.00   sec  40.0 MBytes   336 Mbits/sec  687   8.00 MBytes       
+[  5]   3.00-4.00   sec  52.5 MBytes   440 Mbits/sec    0   8.01 MBytes       
+[  5]   4.00-5.00   sec  45.0 MBytes   377 Mbits/sec    1   4.01 MBytes       
+[  5]   5.00-6.00   sec  30.0 MBytes   252 Mbits/sec    0   4.02 MBytes       
+[  5]   6.00-7.00   sec  12.5 MBytes   105 Mbits/sec    0   4.03 MBytes       
+[  5]   7.00-8.00   sec  17.5 MBytes   147 Mbits/sec    0   4.06 MBytes       
+[  5]   8.00-9.00   sec  13.8 MBytes   115 Mbits/sec    0   4.10 MBytes       
+[  5]   9.00-10.00  sec  16.2 MBytes   136 Mbits/sec    1   2.07 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   350 MBytes   293 Mbits/sec  2636             sender
+[  5]   0.00-10.03  sec   281 MBytes   235 Mbits/sec                  receiver
+
+iperf Done.
+1709402461
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 38856 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   104 MBytes   873 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  45.0 MBytes   377 Mbits/sec  612   16.0 MBytes       
+[  5]   2.00-3.00   sec  52.5 MBytes   440 Mbits/sec  242   8.00 MBytes       
+[  5]   3.00-4.00   sec  45.0 MBytes   378 Mbits/sec    0   8.01 MBytes       
+[  5]   4.00-5.00   sec  48.8 MBytes   409 Mbits/sec    0   8.03 MBytes       
+[  5]   5.00-6.00   sec  48.8 MBytes   409 Mbits/sec    0   8.07 MBytes       
+[  5]   6.00-7.00   sec  45.0 MBytes   377 Mbits/sec    0   8.13 MBytes       
+[  5]   7.00-8.00   sec  48.8 MBytes   409 Mbits/sec    0   8.23 MBytes       
+[  5]   8.00-9.00   sec  46.2 MBytes   388 Mbits/sec    0   8.33 MBytes       
+[  5]   9.00-10.00  sec  43.8 MBytes   367 Mbits/sec    0   8.46 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   528 MBytes   443 Mbits/sec  854             sender
+[  5]   0.00-10.05  sec   463 MBytes   387 Mbits/sec                  receiver
+
+iperf Done.
+1709445661
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 50462 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  96.6 MBytes   810 Mbits/sec  490   15.2 MBytes       
+[  5]   1.00-2.00   sec  30.0 MBytes   252 Mbits/sec  1942   7.59 MBytes       
+[  5]   2.00-3.00   sec  36.2 MBytes   304 Mbits/sec    7   7.59 MBytes       
+[  5]   3.00-4.00   sec  42.5 MBytes   357 Mbits/sec    0   7.60 MBytes       
+[  5]   4.00-5.00   sec  46.2 MBytes   388 Mbits/sec    0   7.62 MBytes       
+[  5]   5.00-6.00   sec  47.5 MBytes   398 Mbits/sec    0   7.67 MBytes       
+[  5]   6.00-7.00   sec  42.5 MBytes   357 Mbits/sec    0   7.73 MBytes       
+[  5]   7.00-8.00   sec  42.5 MBytes   357 Mbits/sec    0   7.81 MBytes       
+[  5]   8.00-9.00   sec  37.5 MBytes   315 Mbits/sec    0   7.91 MBytes       
+[  5]   9.00-10.00  sec  38.8 MBytes   325 Mbits/sec    0   8.03 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   460 MBytes   386 Mbits/sec  2439             sender
+[  5]   0.00-10.05  sec   400 MBytes   334 Mbits/sec                  receiver
+
+iperf Done.
+1709488861
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 33812 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   103 MBytes   862 Mbits/sec    0   32.0 MBytes       
+[  5]   1.00-2.00   sec  45.0 MBytes   377 Mbits/sec  665   16.0 MBytes       
+[  5]   2.00-3.00   sec  46.2 MBytes   388 Mbits/sec  1181   8.01 MBytes       
+[  5]   3.00-4.00   sec  48.8 MBytes   409 Mbits/sec    0   8.01 MBytes       
+[  5]   4.00-5.00   sec  48.8 MBytes   409 Mbits/sec    0   8.03 MBytes       
+[  5]   5.00-6.00   sec  48.8 MBytes   409 Mbits/sec    0   8.07 MBytes       
+[  5]   6.00-7.00   sec  47.5 MBytes   398 Mbits/sec    0   8.13 MBytes       
+[  5]   7.00-8.00   sec  46.2 MBytes   388 Mbits/sec    0   8.22 MBytes       
+[  5]   8.00-9.00   sec  46.2 MBytes   388 Mbits/sec    0   8.32 MBytes       
+[  5]   9.00-10.00  sec  45.0 MBytes   377 Mbits/sec    0   8.45 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   525 MBytes   441 Mbits/sec  1846             sender
+[  5]   0.00-10.04  sec   462 MBytes   387 Mbits/sec                  receiver
+
+iperf Done.
+1709532061
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 45372 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  20.1 MBytes   169 Mbits/sec    0   6.14 MBytes       
+[  5]   1.00-2.00   sec  66.2 MBytes   556 Mbits/sec  1854   13.5 MBytes       
+[  5]   2.00-3.00   sec  16.2 MBytes   136 Mbits/sec  231   13.6 MBytes       
+[  5]   3.00-4.00   sec  37.5 MBytes   315 Mbits/sec   12   6.78 MBytes       
+[  5]   4.00-5.00   sec  26.2 MBytes   220 Mbits/sec    0   6.79 MBytes       
+[  5]   5.00-6.00   sec  21.2 MBytes   178 Mbits/sec    0   6.80 MBytes       
+[  5]   6.00-7.00   sec  26.2 MBytes   220 Mbits/sec    0   6.85 MBytes       
+[  5]   7.00-8.00   sec  25.0 MBytes   210 Mbits/sec    0   6.91 MBytes       
+[  5]   8.00-9.00   sec  22.5 MBytes   189 Mbits/sec    0   6.99 MBytes       
+[  5]   9.00-10.00  sec  21.2 MBytes   178 Mbits/sec    0   7.08 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   283 MBytes   237 Mbits/sec  2097             sender
+[  5]   0.00-10.07  sec   229 MBytes   191 Mbits/sec                  receiver
+
+iperf Done.
+1709575261
+------------------------------------
+Connecting to host 35.207.33.118, port 5201
+[  5] local 149.149.248.20 port 56956 connected to 35.207.33.118 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  50.1 MBytes   420 Mbits/sec    1   15.8 MBytes       
+[  5]   1.00-2.00   sec  47.5 MBytes   398 Mbits/sec  2166   13.1 MBytes       
+[  5]   2.00-3.00   sec  38.8 MBytes   325 Mbits/sec  234   15.1 MBytes       
+[  5]   3.00-4.00   sec  25.0 MBytes   210 Mbits/sec  1436   3.83 MBytes       
+[  5]   4.00-5.00   sec  23.8 MBytes   199 Mbits/sec    0   3.84 MBytes       
+[  5]   5.00-6.00   sec  27.5 MBytes   231 Mbits/sec    0   3.86 MBytes       
+[  5]   6.00-7.00   sec  32.5 MBytes   273 Mbits/sec    0   3.94 MBytes       
+[  5]   7.00-8.00   sec  30.0 MBytes   252 Mbits/sec    0   4.05 MBytes       
+[  5]   8.00-9.00   sec  23.8 MBytes   199 Mbits/sec    0   4.17 MBytes       
+[  5]   9.00-10.00  sec  22.5 MBytes   189 Mbits/sec    0   4.32 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   321 MBytes   270 Mbits/sec  3837             sender
+[  5]   0.00-10.05  sec   257 MBytes   215 Mbits/sec                  receiver
+
+iperf Done.
