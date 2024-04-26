@@ -1,0 +1,168 @@
+[
+    {
+        "transmission_number": 1,
+        "timestamp": 1692028812,
+        "ping_data": [
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 1,
+                "ttl": 63,
+                "time": 0.388
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 2,
+                "ttl": 63,
+                "time": 0.28
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 3,
+                "ttl": 63,
+                "time": 0.265
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 4,
+                "ttl": 63,
+                "time": 0.282
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 5,
+                "ttl": 63,
+                "time": 0.181
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 6,
+                "ttl": 63,
+                "time": 0.225
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 7,
+                "ttl": 63,
+                "time": 0.319
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 8,
+                "ttl": 63,
+                "time": 0.247
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 9,
+                "ttl": 63,
+                "time": 0.248
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 10,
+                "ttl": 63,
+                "time": 0.294
+            }
+        ],
+        "packets_sent": 10,
+        "packets_rcvd": 10,
+        "loss_percentage": 0,
+        "rtt_min": 0.181,
+        "rtt_avg": 0.272,
+        "rtt_max": 0.388,
+        "rtt_mdev": 0.057
+    },
+    {
+        "transmission_number": 2,
+        "timestamp": 1692030621,
+        "ping_data": [
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 1,
+                "ttl": 63,
+                "time": 0.311
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 2,
+                "ttl": 63,
+                "time": 0.289
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 3,
+                "ttl": 63,
+                "time": 0.319
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 4,
+                "ttl": 63,
+                "time": 0.283
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 5,
+                "ttl": 63,
+                "time": 0.282
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 6,
+                "ttl": 63,
+                "time": 0.254
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 7,
+                "ttl": 63,
+                "time": 0.299
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 8,
+                "ttl": 63,
+                "time": 0.312
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 9,
+                "ttl": 63,
+                "time": 0.168
+            },
+            {
+                "bytes": 64,
+                "ip_address": "149.149.248.20",
+                "sequence": 10,
+                "ttl": 63,
+                "time": 0.334
+            }
+        ],
+        "packets_sent": 10,
+        "packets_rcvd": 10,
+        "loss_percentage": 0,
+        "rtt_min": 0.168,
+        "rtt_avg": 0.285,
+        "rtt_max": 0.334,
+        "rtt_mdev": 0.045
+    }
+]
